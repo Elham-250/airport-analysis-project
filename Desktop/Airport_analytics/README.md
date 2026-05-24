@@ -1,6 +1,6 @@
 # Airport Security Wait Time Prediction System
 
-A student portfolio project that predicts airport security wait times using Python and SQL.
+A portfolio project that predicts airport security wait times using Python and SQL.
 
 ## What It Does
 
