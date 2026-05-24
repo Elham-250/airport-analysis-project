@@ -1,0 +1,1778 @@
+flight_id,date,airline,terminal,scheduled_departure,delay_minutes,flight_status
+1,2024-01-01,Delta,B,19:30,22,Delayed
+2,2024-01-01,American,C,15:30,30,Delayed
+3,2024-01-01,United,B,06:45,26,Delayed
+4,2024-01-01,Delta,D,05:45,14,On Time
+5,2024-01-01,United,D,21:30,14,On Time
+6,2024-01-01,Southwest,F,20:30,9,On Time
+7,2024-01-01,Delta,C,16:30,61,Delayed
+8,2024-01-01,Delta,B,09:30,17,Delayed
+9,2024-01-01,United,B,08:00,50,Delayed
+10,2024-01-01,American,D,13:15,1,On Time
+11,2024-01-01,Delta,C,19:45,1,On Time
+12,2024-01-01,American,D,18:00,4,On Time
+13,2024-01-01,United,D,06:15,11,On Time
+14,2024-01-01,United,F,22:15,8,On Time
+15,2024-01-01,Southwest,F,08:15,19,Delayed
+16,2024-01-01,United,E,12:00,7,On Time
+17,2024-01-01,Delta,A,17:00,5,On Time
+18,2024-01-01,American,C,11:00,22,Delayed
+19,2024-01-01,Delta,C,21:45,19,Delayed
+20,2024-01-01,Delta,D,09:15,6,On Time
+21,2024-01-01,United,A,11:00,14,On Time
+22,2024-01-02,United,C,09:30,13,On Time
+23,2024-01-02,Southwest,F,07:00,7,On Time
+24,2024-01-02,Southwest,F,07:00,19,Delayed
+25,2024-01-02,Southwest,B,11:30,11,On Time
+26,2024-01-02,Southwest,A,14:45,1,On Time
+27,2024-01-02,Southwest,E,08:15,2,On Time
+28,2024-01-02,Delta,C,19:30,3,On Time
+29,2024-01-02,Delta,E,06:15,24,Delayed
+30,2024-01-02,American,D,10:45,24,Delayed
+31,2024-01-02,American,A,15:45,24,Delayed
+32,2024-01-02,Delta,C,11:15,1,On Time
+33,2024-01-02,United,C,17:00,5,On Time
+34,2024-01-02,Southwest,B,13:15,3,On Time
+35,2024-01-02,United,A,16:45,42,Delayed
+36,2024-01-02,American,D,21:15,53,Delayed
+37,2024-01-02,Delta,A,11:15,18,Delayed
+38,2024-01-02,United,D,21:30,14,On Time
+39,2024-01-02,Southwest,F,09:45,35,Delayed
+40,2024-01-02,American,F,06:00,10,On Time
+41,2024-01-02,Southwest,A,08:30,21,Delayed
+42,2024-01-02,United,F,10:45,9,On Time
+43,2024-01-03,Delta,A,15:30,1,On Time
+44,2024-01-03,American,D,10:45,0,On Time
+45,2024-01-03,Southwest,C,08:30,18,Delayed
+46,2024-01-03,American,B,11:45,42,Delayed
+47,2024-01-03,Delta,A,12:00,16,Delayed
+48,2024-01-03,United,C,22:30,11,On Time
+49,2024-01-03,American,A,11:45,2,On Time
+50,2024-01-03,United,D,21:15,83,Delayed
+51,2024-01-03,Southwest,A,09:00,32,Delayed
+52,2024-01-03,American,C,13:30,18,Delayed
+53,2024-01-03,Delta,D,05:45,28,Delayed
+54,2024-01-03,Southwest,F,10:45,13,On Time
+55,2024-01-03,American,F,07:00,0,On Time
+56,2024-01-03,American,E,22:15,17,Delayed
+57,2024-01-03,Delta,F,13:45,18,Delayed
+58,2024-01-03,American,C,20:45,6,On Time
+59,2024-01-03,American,C,21:45,12,On Time
+60,2024-01-03,Delta,C,18:15,54,Delayed
+61,2024-01-03,Delta,F,12:30,8,On Time
+62,2024-01-03,Delta,E,05:45,16,Delayed
+63,2024-01-04,American,A,08:30,21,Delayed
+64,2024-01-04,United,E,16:45,9,On Time
+65,2024-01-04,Delta,E,10:30,20,Delayed
+66,2024-01-04,Southwest,D,21:15,51,Delayed
+67,2024-01-04,Delta,A,05:45,5,On Time
+68,2024-01-04,United,F,07:45,6,On Time
+69,2024-01-04,United,F,07:45,1,On Time
+70,2024-01-04,United,B,06:30,10,On Time
+71,2024-01-04,Southwest,F,21:45,17,Delayed
+72,2024-01-04,Southwest,B,20:30,5,On Time
+73,2024-01-04,Delta,D,07:15,30,Delayed
+74,2024-01-04,American,A,11:00,14,On Time
+75,2024-01-04,United,D,12:45,7,On Time
+76,2024-01-04,American,F,19:45,12,On Time
+77,2024-01-04,Southwest,F,21:45,0,On Time
+78,2024-01-04,American,E,15:45,5,On Time
+79,2024-01-04,American,F,16:45,14,On Time
+80,2024-01-05,American,E,19:30,15,On Time
+81,2024-01-05,Southwest,A,22:45,18,Delayed
+82,2024-01-05,Southwest,A,09:15,49,Delayed
+83,2024-01-05,United,A,16:00,0,On Time
+84,2024-01-05,United,A,19:15,4,On Time
+85,2024-01-05,American,E,12:00,4,On Time
+86,2024-01-05,United,E,11:45,12,On Time
+87,2024-01-05,Southwest,E,07:45,12,On Time
+88,2024-01-05,Delta,F,18:45,0,On Time
+89,2024-01-05,American,B,18:15,18,Delayed
+90,2024-01-05,Delta,F,20:00,9,On Time
+91,2024-01-05,United,E,09:30,0,On Time
+92,2024-01-05,United,B,08:15,4,On Time
+93,2024-01-05,American,B,05:45,16,Delayed
+94,2024-01-05,Southwest,D,21:45,13,On Time
+95,2024-01-05,Delta,A,16:15,12,On Time
+96,2024-01-05,Delta,A,15:00,14,On Time
+97,2024-01-05,Delta,E,12:15,3,On Time
+98,2024-01-06,United,E,22:30,6,On Time
+99,2024-01-06,Southwest,A,14:15,6,On Time
+100,2024-01-06,United,E,11:45,17,Delayed
+101,2024-01-06,Delta,E,15:00,0,On Time
+102,2024-01-06,American,C,08:15,8,On Time
+103,2024-01-06,United,A,21:30,7,On Time
+104,2024-01-06,United,E,11:45,6,On Time
+105,2024-01-06,Southwest,A,16:00,17,Delayed
+106,2024-01-06,Delta,F,07:00,7,On Time
+107,2024-01-06,Southwest,C,20:00,5,On Time
+108,2024-01-06,Delta,C,21:45,0,On Time
+109,2024-01-06,United,D,16:00,5,On Time
+110,2024-01-06,Southwest,D,19:45,8,On Time
+111,2024-01-06,Delta,E,08:00,23,Delayed
+112,2024-01-06,Southwest,B,14:15,0,On Time
+113,2024-01-06,Southwest,C,09:30,32,Delayed
+114,2024-01-07,United,D,19:45,17,Delayed
+115,2024-01-07,United,E,21:00,27,Delayed
+116,2024-01-07,Southwest,B,12:15,7,On Time
+117,2024-01-07,United,C,06:00,10,On Time
+118,2024-01-07,United,D,12:45,29,Delayed
+119,2024-01-07,Delta,D,21:30,35,Delayed
+120,2024-01-07,Southwest,E,08:15,18,Delayed
+121,2024-01-07,United,B,16:15,18,Delayed
+122,2024-01-07,Delta,B,11:15,10,On Time
+123,2024-01-07,Southwest,A,12:00,25,Delayed
+124,2024-01-07,Delta,D,07:00,4,On Time
+125,2024-01-07,United,E,21:00,30,Delayed
+126,2024-01-07,American,E,10:15,0,On Time
+127,2024-01-07,Delta,C,19:00,0,On Time
+128,2024-01-07,American,A,09:45,12,On Time
+129,2024-01-07,United,A,22:30,14,On Time
+130,2024-01-08,Southwest,D,07:45,20,Delayed
+131,2024-01-08,United,D,14:45,0,On Time
+132,2024-01-08,United,B,12:15,3,On Time
+133,2024-01-08,Delta,D,22:45,1,On Time
+134,2024-01-08,American,E,21:00,5,On Time
+135,2024-01-08,Southwest,E,20:00,2,On Time
+136,2024-01-08,Delta,A,10:15,8,On Time
+137,2024-01-08,United,C,06:15,40,Delayed
+138,2024-01-08,Delta,F,17:00,0,On Time
+139,2024-01-08,Delta,C,05:15,65,Delayed
+140,2024-01-08,Delta,C,21:00,0,On Time
+141,2024-01-08,United,D,05:00,0,On Time
+142,2024-01-08,United,C,21:00,122,Delayed
+143,2024-01-08,United,C,09:00,43,Delayed
+144,2024-01-08,United,A,21:00,8,On Time
+145,2024-01-08,Delta,A,17:00,3,On Time
+146,2024-01-08,Southwest,B,12:45,0,On Time
+147,2024-01-08,Southwest,B,06:15,22,Delayed
+148,2024-01-08,Delta,F,16:00,12,On Time
+149,2024-01-09,Southwest,E,21:45,9,On Time
+150,2024-01-09,Southwest,F,18:15,24,Delayed
+151,2024-01-09,United,F,06:15,14,On Time
+152,2024-01-09,United,D,19:30,1,On Time
+153,2024-01-09,American,F,10:00,22,Delayed
+154,2024-01-09,Delta,D,14:30,17,Delayed
+155,2024-01-09,Delta,D,14:45,27,Delayed
+156,2024-01-09,United,E,09:15,14,On Time
+157,2024-01-09,Southwest,A,15:30,4,On Time
+158,2024-01-09,American,D,20:30,7,On Time
+159,2024-01-09,Southwest,C,12:45,6,On Time
+160,2024-01-09,Southwest,E,22:00,3,On Time
+161,2024-01-09,Delta,F,09:15,4,On Time
+162,2024-01-09,American,B,10:00,11,On Time
+163,2024-01-09,United,E,18:15,2,On Time
+164,2024-01-09,Delta,F,13:15,24,Delayed
+165,2024-01-09,Southwest,E,19:45,31,Delayed
+166,2024-01-09,American,A,21:15,30,Delayed
+167,2024-01-09,Southwest,F,07:00,64,Delayed
+168,2024-01-09,United,B,18:15,21,Delayed
+169,2024-01-09,American,C,17:15,0,On Time
+170,2024-01-09,United,C,11:30,33,Delayed
+171,2024-01-09,United,F,19:45,1,On Time
+172,2024-01-09,Delta,E,07:30,4,On Time
+173,2024-01-09,Southwest,F,14:30,5,On Time
+174,2024-01-10,American,A,16:00,33,Delayed
+175,2024-01-10,Delta,B,08:15,23,Delayed
+176,2024-01-10,United,A,19:45,11,On Time
+177,2024-01-10,Delta,F,16:30,7,On Time
+178,2024-01-10,Delta,F,06:30,6,On Time
+179,2024-01-10,United,E,09:00,4,On Time
+180,2024-01-10,American,F,10:15,4,On Time
+181,2024-01-10,Southwest,A,15:15,5,On Time
+182,2024-01-10,Delta,D,07:30,0,On Time
+183,2024-01-10,Southwest,D,10:15,12,On Time
+184,2024-01-10,United,F,19:15,55,Delayed
+185,2024-01-10,United,C,06:30,11,On Time
+186,2024-01-10,United,F,17:45,3,On Time
+187,2024-01-10,American,A,08:30,3,On Time
+188,2024-01-10,United,F,16:30,18,Delayed
+189,2024-01-10,American,E,09:15,2,On Time
+190,2024-01-10,United,B,15:30,0,On Time
+191,2024-01-10,United,E,09:30,11,On Time
+192,2024-01-10,Southwest,E,12:15,1,On Time
+193,2024-01-10,Southwest,F,13:00,1,On Time
+194,2024-01-10,Delta,F,07:15,1,On Time
+195,2024-01-10,American,C,16:15,1,On Time
+196,2024-01-10,Southwest,A,13:15,2,On Time
+197,2024-01-10,American,E,12:45,12,On Time
+198,2024-01-11,American,F,15:00,20,Delayed
+199,2024-01-11,Southwest,C,07:00,3,On Time
+200,2024-01-11,Delta,E,18:15,35,Delayed
+201,2024-01-11,American,F,14:00,17,Delayed
+202,2024-01-11,Southwest,A,10:00,20,Delayed
+203,2024-01-11,United,F,21:00,7,On Time
+204,2024-01-11,Southwest,F,12:45,14,On Time
+205,2024-01-11,American,B,10:30,14,On Time
+206,2024-01-11,American,F,19:30,14,On Time
+207,2024-01-11,United,A,11:30,23,Delayed
+208,2024-01-11,Southwest,A,05:00,4,On Time
+209,2024-01-11,Delta,C,08:15,18,Delayed
+210,2024-01-11,Delta,D,14:00,1,On Time
+211,2024-01-11,Southwest,E,17:45,13,On Time
+212,2024-01-11,American,D,12:00,9,On Time
+213,2024-01-11,Southwest,C,17:15,0,On Time
+214,2024-01-11,Southwest,E,08:45,18,Delayed
+215,2024-01-11,United,F,15:15,35,Delayed
+216,2024-01-11,United,C,12:30,9,On Time
+217,2024-01-11,United,B,16:15,13,On Time
+218,2024-01-11,Southwest,D,05:30,19,Delayed
+219,2024-01-11,Delta,E,16:45,37,Delayed
+220,2024-01-12,United,A,14:00,12,On Time
+221,2024-01-12,Southwest,A,18:45,27,Delayed
+222,2024-01-12,United,D,18:00,62,Delayed
+223,2024-01-12,Southwest,E,05:30,5,On Time
+224,2024-01-12,United,D,19:00,20,Delayed
+225,2024-01-12,Delta,B,13:30,7,On Time
+226,2024-01-12,United,C,15:15,6,On Time
+227,2024-01-12,Southwest,C,06:30,9,On Time
+228,2024-01-12,American,A,16:30,2,On Time
+229,2024-01-12,American,A,11:45,8,On Time
+230,2024-01-12,United,B,21:00,13,On Time
+231,2024-01-12,Delta,D,22:00,10,On Time
+232,2024-01-12,United,D,13:00,12,On Time
+233,2024-01-12,American,E,12:00,5,On Time
+234,2024-01-12,American,C,21:00,7,On Time
+235,2024-01-12,Southwest,B,22:00,22,Delayed
+236,2024-01-12,United,F,06:15,8,On Time
+237,2024-01-12,Delta,E,10:30,2,On Time
+238,2024-01-12,United,C,11:30,7,On Time
+239,2024-01-12,Southwest,D,18:15,7,On Time
+240,2024-01-12,Delta,A,22:30,16,Delayed
+241,2024-01-12,Southwest,E,07:45,3,On Time
+242,2024-01-13,Delta,D,19:00,2,On Time
+243,2024-01-13,American,F,19:45,1,On Time
+244,2024-01-13,American,E,18:30,49,Delayed
+245,2024-01-13,United,B,18:30,5,On Time
+246,2024-01-13,Southwest,E,11:00,3,On Time
+247,2024-01-13,United,A,08:00,8,On Time
+248,2024-01-13,United,B,19:00,6,On Time
+249,2024-01-13,American,E,07:30,0,On Time
+250,2024-01-13,Delta,B,09:15,22,Delayed
+251,2024-01-13,United,D,16:30,44,Delayed
+252,2024-01-13,Southwest,F,21:15,12,On Time
+253,2024-01-13,United,A,21:15,0,On Time
+254,2024-01-13,Southwest,A,12:15,15,On Time
+255,2024-01-13,United,E,15:15,62,Delayed
+256,2024-01-13,Southwest,F,17:15,4,On Time
+257,2024-01-13,American,A,22:45,1,On Time
+258,2024-01-13,Delta,F,10:15,12,On Time
+259,2024-01-13,United,E,16:30,1,On Time
+260,2024-01-13,American,E,10:30,13,On Time
+261,2024-01-13,United,E,11:15,36,Delayed
+262,2024-01-13,United,C,18:45,6,On Time
+263,2024-01-13,Southwest,B,05:30,1,On Time
+264,2024-01-14,American,A,15:45,8,On Time
+265,2024-01-14,United,F,11:45,12,On Time
+266,2024-01-14,American,D,09:45,3,On Time
+267,2024-01-14,United,C,07:45,0,On Time
+268,2024-01-14,United,B,17:30,6,On Time
+269,2024-01-14,Delta,A,13:00,6,On Time
+270,2024-01-14,Southwest,C,15:45,8,On Time
+271,2024-01-14,American,C,07:15,24,Delayed
+272,2024-01-14,Delta,D,10:15,1,On Time
+273,2024-01-14,Delta,A,21:00,23,Delayed
+274,2024-01-14,American,C,19:45,11,On Time
+275,2024-01-14,Southwest,E,12:30,24,Delayed
+276,2024-01-14,United,A,20:15,59,Delayed
+277,2024-01-14,Delta,E,16:30,17,Delayed
+278,2024-01-14,Southwest,A,19:45,18,Delayed
+279,2024-01-14,Southwest,A,11:15,1,On Time
+280,2024-01-14,Southwest,E,20:45,53,Delayed
+281,2024-01-14,Southwest,C,22:30,29,Delayed
+282,2024-01-14,Delta,F,22:30,26,Delayed
+283,2024-01-15,United,C,07:45,1,On Time
+284,2024-01-15,Southwest,D,09:30,6,On Time
+285,2024-01-15,American,E,11:30,24,Delayed
+286,2024-01-15,Delta,B,17:15,11,On Time
+287,2024-01-15,Southwest,B,16:15,8,On Time
+288,2024-01-15,Delta,E,06:15,0,On Time
+289,2024-01-15,Southwest,F,22:45,40,Delayed
+290,2024-01-15,American,A,21:00,0,On Time
+291,2024-01-15,Delta,B,20:45,4,On Time
+292,2024-01-15,United,A,11:45,20,Delayed
+293,2024-01-15,United,B,07:00,6,On Time
+294,2024-01-15,Delta,A,08:15,3,On Time
+295,2024-01-15,Delta,A,18:30,8,On Time
+296,2024-01-15,Delta,E,08:45,46,Delayed
+297,2024-01-15,Southwest,F,09:30,13,On Time
+298,2024-01-15,Delta,D,15:15,14,On Time
+299,2024-01-15,Delta,F,08:30,7,On Time
+300,2024-01-15,United,A,17:15,3,On Time
+301,2024-01-15,American,F,13:00,47,Delayed
+302,2024-01-15,Southwest,A,09:00,14,On Time
+303,2024-01-15,Delta,E,13:30,13,On Time
+304,2024-01-15,United,A,14:30,21,Delayed
+305,2024-01-16,Delta,E,07:45,9,On Time
+306,2024-01-16,United,E,19:00,13,On Time
+307,2024-01-16,Southwest,C,06:30,31,Delayed
+308,2024-01-16,American,B,13:30,46,Delayed
+309,2024-01-16,Delta,C,13:30,15,On Time
+310,2024-01-16,United,C,06:45,4,On Time
+311,2024-01-16,United,E,09:45,10,On Time
+312,2024-01-16,Delta,A,20:00,33,Delayed
+313,2024-01-16,United,E,22:45,32,Delayed
+314,2024-01-16,American,C,07:45,16,Delayed
+315,2024-01-16,American,C,17:00,19,Delayed
+316,2024-01-16,Southwest,C,20:45,4,On Time
+317,2024-01-16,Delta,A,20:00,6,On Time
+318,2024-01-16,United,D,14:45,14,On Time
+319,2024-01-16,United,A,11:00,31,Delayed
+320,2024-01-16,Delta,F,14:15,25,Delayed
+321,2024-01-16,United,F,11:30,0,On Time
+322,2024-01-16,United,E,17:00,4,On Time
+323,2024-01-16,Delta,B,18:30,59,Delayed
+324,2024-01-16,Southwest,F,17:30,2,On Time
+325,2024-01-16,United,D,11:15,8,On Time
+326,2024-01-16,United,D,19:15,21,Delayed
+327,2024-01-17,American,A,08:15,44,Delayed
+328,2024-01-17,United,A,16:15,18,Delayed
+329,2024-01-17,Southwest,E,22:15,69,Delayed
+330,2024-01-17,American,E,16:45,15,On Time
+331,2024-01-17,Delta,F,16:30,1,On Time
+332,2024-01-17,Southwest,B,19:30,25,Delayed
+333,2024-01-17,American,A,06:15,9,On Time
+334,2024-01-17,Southwest,E,07:00,28,Delayed
+335,2024-01-17,Southwest,F,15:45,27,Delayed
+336,2024-01-17,United,D,15:30,30,Delayed
+337,2024-01-17,American,F,19:45,29,Delayed
+338,2024-01-17,United,D,09:30,5,On Time
+339,2024-01-17,Southwest,A,10:30,20,Delayed
+340,2024-01-17,American,C,16:15,29,Delayed
+341,2024-01-17,Delta,E,12:45,3,On Time
+342,2024-01-17,United,D,12:30,9,On Time
+343,2024-01-17,American,E,11:30,23,Delayed
+344,2024-01-17,Delta,F,07:45,23,Delayed
+345,2024-01-18,American,A,21:15,17,Delayed
+346,2024-01-18,Southwest,F,10:45,10,On Time
+347,2024-01-18,American,E,06:45,8,On Time
+348,2024-01-18,United,B,21:45,9,On Time
+349,2024-01-18,American,C,18:30,13,On Time
+350,2024-01-18,United,A,17:00,29,Delayed
+351,2024-01-18,American,A,12:30,9,On Time
+352,2024-01-18,American,F,21:45,64,Delayed
+353,2024-01-18,United,D,05:15,22,Delayed
+354,2024-01-18,Delta,E,05:15,11,On Time
+355,2024-01-18,United,B,05:00,1,On Time
+356,2024-01-18,United,B,10:30,3,On Time
+357,2024-01-18,American,A,19:15,0,On Time
+358,2024-01-18,Southwest,F,12:30,1,On Time
+359,2024-01-18,Southwest,A,13:15,14,On Time
+360,2024-01-18,United,D,22:45,30,Delayed
+361,2024-01-18,Southwest,D,19:30,9,On Time
+362,2024-01-18,United,B,20:45,13,On Time
+363,2024-01-18,United,F,07:30,11,On Time
+364,2024-01-18,Southwest,D,15:15,0,On Time
+365,2024-01-18,United,C,17:00,30,Delayed
+366,2024-01-19,Delta,E,18:45,20,Delayed
+367,2024-01-19,Southwest,F,16:15,0,On Time
+368,2024-01-19,Southwest,C,09:45,11,On Time
+369,2024-01-19,Delta,F,14:30,17,Delayed
+370,2024-01-19,Delta,F,19:00,27,Delayed
+371,2024-01-19,United,D,09:45,19,Delayed
+372,2024-01-19,Delta,D,22:00,10,On Time
+373,2024-01-19,Southwest,B,06:45,13,On Time
+374,2024-01-19,Southwest,C,08:15,15,On Time
+375,2024-01-19,American,E,16:30,14,On Time
+376,2024-01-19,American,D,19:00,2,On Time
+377,2024-01-19,American,F,20:15,2,On Time
+378,2024-01-19,Delta,F,18:15,2,On Time
+379,2024-01-19,American,E,17:00,4,On Time
+380,2024-01-19,Delta,D,19:15,10,On Time
+381,2024-01-19,Southwest,A,06:30,2,On Time
+382,2024-01-19,Southwest,A,06:30,16,Delayed
+383,2024-01-19,Delta,C,12:45,2,On Time
+384,2024-01-19,American,B,14:30,8,On Time
+385,2024-01-19,Delta,E,14:45,26,Delayed
+386,2024-01-19,Delta,F,12:30,44,Delayed
+387,2024-01-20,American,E,15:00,6,On Time
+388,2024-01-20,American,D,21:00,18,Delayed
+389,2024-01-20,Southwest,E,19:30,12,On Time
+390,2024-01-20,Southwest,E,22:15,0,On Time
+391,2024-01-20,Delta,E,05:30,3,On Time
+392,2024-01-20,United,D,09:00,10,On Time
+393,2024-01-20,American,C,14:45,64,Delayed
+394,2024-01-20,United,E,15:15,45,Delayed
+395,2024-01-20,Southwest,B,11:30,4,On Time
+396,2024-01-20,American,F,16:15,2,On Time
+397,2024-01-20,United,D,17:45,18,Delayed
+398,2024-01-20,Southwest,E,12:15,3,On Time
+399,2024-01-20,Southwest,B,10:00,49,Delayed
+400,2024-01-20,Southwest,B,05:30,57,Delayed
+401,2024-01-20,American,A,22:15,14,On Time
+402,2024-01-20,United,D,16:30,40,Delayed
+403,2024-01-20,American,F,05:00,3,On Time
+404,2024-01-20,United,D,20:00,12,On Time
+405,2024-01-21,Delta,A,22:45,0,On Time
+406,2024-01-21,Delta,E,13:00,30,Delayed
+407,2024-01-21,American,B,17:30,20,Delayed
+408,2024-01-21,Southwest,F,10:15,38,Delayed
+409,2024-01-21,Southwest,C,06:15,31,Delayed
+410,2024-01-21,United,F,17:30,7,On Time
+411,2024-01-21,Delta,D,11:00,5,On Time
+412,2024-01-21,American,E,11:30,17,Delayed
+413,2024-01-21,Southwest,D,05:00,11,On Time
+414,2024-01-21,American,F,10:15,13,On Time
+415,2024-01-21,Delta,C,18:15,21,Delayed
+416,2024-01-21,American,E,12:45,28,Delayed
+417,2024-01-21,Delta,D,16:00,7,On Time
+418,2024-01-21,Southwest,F,08:30,7,On Time
+419,2024-01-21,Southwest,E,18:15,18,Delayed
+420,2024-01-21,Delta,D,15:30,34,Delayed
+421,2024-01-22,American,E,08:30,7,On Time
+422,2024-01-22,United,E,17:15,3,On Time
+423,2024-01-22,United,C,08:45,11,On Time
+424,2024-01-22,American,B,19:45,11,On Time
+425,2024-01-22,Delta,E,08:15,18,Delayed
+426,2024-01-22,Southwest,D,08:15,1,On Time
+427,2024-01-22,Southwest,A,14:30,11,On Time
+428,2024-01-22,American,D,14:00,4,On Time
+429,2024-01-22,Delta,D,08:15,24,Delayed
+430,2024-01-22,Delta,F,17:15,1,On Time
+431,2024-01-22,United,B,13:15,3,On Time
+432,2024-01-22,Delta,B,14:45,22,Delayed
+433,2024-01-22,Southwest,D,09:45,4,On Time
+434,2024-01-22,Southwest,D,11:15,24,Delayed
+435,2024-01-22,Delta,A,14:00,8,On Time
+436,2024-01-22,Southwest,E,07:45,29,Delayed
+437,2024-01-22,Southwest,C,21:15,0,On Time
+438,2024-01-22,Delta,F,11:45,15,On Time
+439,2024-01-22,Delta,B,17:00,0,On Time
+440,2024-01-22,Southwest,B,07:30,17,Delayed
+441,2024-01-22,Southwest,D,11:00,17,Delayed
+442,2024-01-22,United,B,18:30,13,On Time
+443,2024-01-22,American,E,11:00,1,On Time
+444,2024-01-23,Delta,C,08:30,7,On Time
+445,2024-01-23,Delta,A,10:00,14,On Time
+446,2024-01-23,Southwest,E,06:45,24,Delayed
+447,2024-01-23,Southwest,F,12:15,13,On Time
+448,2024-01-23,United,F,16:00,9,On Time
+449,2024-01-23,United,A,06:30,7,On Time
+450,2024-01-23,American,F,07:15,8,On Time
+451,2024-01-23,Delta,E,16:15,47,Delayed
+452,2024-01-23,United,F,19:00,2,On Time
+453,2024-01-23,American,D,20:45,6,On Time
+454,2024-01-23,Southwest,D,07:45,7,On Time
+455,2024-01-23,American,D,12:15,73,Delayed
+456,2024-01-23,American,F,05:00,16,Delayed
+457,2024-01-23,Delta,E,22:45,21,Delayed
+458,2024-01-23,United,E,20:45,22,Delayed
+459,2024-01-24,United,A,05:30,4,On Time
+460,2024-01-24,Delta,C,06:30,4,On Time
+461,2024-01-24,United,D,07:45,4,On Time
+462,2024-01-24,United,C,22:30,2,On Time
+463,2024-01-24,American,B,19:15,12,On Time
+464,2024-01-24,United,B,16:30,7,On Time
+465,2024-01-24,United,F,17:30,16,Delayed
+466,2024-01-24,Southwest,D,18:15,2,On Time
+467,2024-01-24,Southwest,B,18:00,5,On Time
+468,2024-01-24,American,B,06:30,6,On Time
+469,2024-01-24,Delta,F,14:00,12,On Time
+470,2024-01-24,Delta,F,05:45,13,On Time
+471,2024-01-24,American,C,20:15,26,Delayed
+472,2024-01-24,Delta,E,07:00,26,Delayed
+473,2024-01-24,American,A,06:45,9,On Time
+474,2024-01-24,American,D,19:45,1,On Time
+475,2024-01-24,United,E,17:30,10,On Time
+476,2024-01-24,United,B,10:45,3,On Time
+477,2024-01-25,Delta,B,09:30,3,On Time
+478,2024-01-25,American,A,15:15,0,On Time
+479,2024-01-25,American,F,13:30,1,On Time
+480,2024-01-25,American,D,18:30,2,On Time
+481,2024-01-25,American,A,05:45,15,On Time
+482,2024-01-25,Delta,D,09:30,3,On Time
+483,2024-01-25,United,E,08:45,28,Delayed
+484,2024-01-25,United,F,07:30,11,On Time
+485,2024-01-25,Delta,F,11:00,7,On Time
+486,2024-01-25,United,F,06:15,9,On Time
+487,2024-01-25,United,E,19:00,21,Delayed
+488,2024-01-25,United,E,05:00,0,On Time
+489,2024-01-25,American,A,22:00,48,Delayed
+490,2024-01-25,Southwest,E,07:00,11,On Time
+491,2024-01-25,American,B,08:15,5,On Time
+492,2024-01-25,American,E,12:30,7,On Time
+493,2024-01-25,Delta,A,10:15,23,Delayed
+494,2024-01-25,Delta,A,13:45,23,Delayed
+495,2024-01-25,Delta,A,05:15,8,On Time
+496,2024-01-25,American,E,14:15,0,On Time
+497,2024-01-25,Southwest,F,15:30,16,Delayed
+498,2024-01-26,Southwest,E,21:30,33,Delayed
+499,2024-01-26,Southwest,E,09:45,66,Delayed
+500,2024-01-26,Southwest,C,12:00,0,On Time
+501,2024-01-26,Southwest,A,05:00,24,Delayed
+502,2024-01-26,United,F,09:45,20,Delayed
+503,2024-01-26,Southwest,C,08:30,52,Delayed
+504,2024-01-26,United,F,15:15,1,On Time
+505,2024-01-26,Southwest,D,12:45,8,On Time
+506,2024-01-26,American,A,21:30,22,Delayed
+507,2024-01-26,Southwest,A,13:15,16,Delayed
+508,2024-01-26,Delta,A,08:15,4,On Time
+509,2024-01-26,American,C,22:15,24,Delayed
+510,2024-01-26,Delta,D,12:15,13,On Time
+511,2024-01-26,Delta,B,06:30,0,On Time
+512,2024-01-26,United,D,13:00,7,On Time
+513,2024-01-26,American,E,22:15,4,On Time
+514,2024-01-26,Delta,E,16:45,10,On Time
+515,2024-01-26,Southwest,A,07:15,25,Delayed
+516,2024-01-26,Delta,E,16:00,11,On Time
+517,2024-01-26,Southwest,D,12:15,19,Delayed
+518,2024-01-26,Southwest,A,15:45,11,On Time
+519,2024-01-26,Delta,D,17:15,1,On Time
+520,2024-01-27,Southwest,D,22:30,10,On Time
+521,2024-01-27,Delta,A,17:15,11,On Time
+522,2024-01-27,Southwest,E,07:30,1,On Time
+523,2024-01-27,American,E,11:45,15,On Time
+524,2024-01-27,American,A,19:45,9,On Time
+525,2024-01-27,American,C,16:00,31,Delayed
+526,2024-01-27,United,E,14:15,3,On Time
+527,2024-01-27,United,A,18:30,14,On Time
+528,2024-01-27,American,F,20:00,11,On Time
+529,2024-01-27,American,A,14:15,27,Delayed
+530,2024-01-27,Delta,A,18:15,20,Delayed
+531,2024-01-27,Southwest,F,15:45,2,On Time
+532,2024-01-27,Delta,D,09:15,6,On Time
+533,2024-01-27,United,E,14:45,3,On Time
+534,2024-01-27,Southwest,E,10:00,0,On Time
+535,2024-01-27,American,A,14:15,2,On Time
+536,2024-01-27,Southwest,D,17:45,7,On Time
+537,2024-01-27,American,B,18:30,1,On Time
+538,2024-01-27,United,F,08:45,13,On Time
+539,2024-01-27,American,C,22:30,4,On Time
+540,2024-01-27,United,E,21:30,1,On Time
+541,2024-01-27,Delta,D,16:15,60,Delayed
+542,2024-01-27,Southwest,A,20:00,2,On Time
+543,2024-01-27,Delta,C,05:15,6,On Time
+544,2024-01-27,United,E,19:30,19,Delayed
+545,2024-01-28,American,C,21:15,15,On Time
+546,2024-01-28,American,C,19:15,70,Delayed
+547,2024-01-28,Delta,A,11:00,45,Delayed
+548,2024-01-28,Southwest,A,14:15,2,On Time
+549,2024-01-28,Delta,C,17:15,10,On Time
+550,2024-01-28,Southwest,E,14:30,8,On Time
+551,2024-01-28,United,E,09:45,24,Delayed
+552,2024-01-28,United,B,08:15,14,On Time
+553,2024-01-28,American,F,07:00,22,Delayed
+554,2024-01-28,American,D,13:15,3,On Time
+555,2024-01-28,American,B,08:00,1,On Time
+556,2024-01-28,United,B,11:30,4,On Time
+557,2024-01-28,United,A,20:45,21,Delayed
+558,2024-01-28,Delta,D,17:15,1,On Time
+559,2024-01-28,Southwest,A,15:45,14,On Time
+560,2024-01-29,Southwest,F,08:15,7,On Time
+561,2024-01-29,Southwest,D,19:15,19,Delayed
+562,2024-01-29,United,B,19:45,41,Delayed
+563,2024-01-29,Delta,E,16:45,4,On Time
+564,2024-01-29,United,E,22:00,15,On Time
+565,2024-01-29,Delta,D,21:30,5,On Time
+566,2024-01-29,American,B,13:00,2,On Time
+567,2024-01-29,Delta,E,11:15,12,On Time
+568,2024-01-29,Delta,F,06:45,19,Delayed
+569,2024-01-29,United,F,21:00,14,On Time
+570,2024-01-29,Delta,B,06:00,8,On Time
+571,2024-01-29,United,C,20:00,16,Delayed
+572,2024-01-29,Southwest,F,11:15,5,On Time
+573,2024-01-29,Southwest,A,14:30,0,On Time
+574,2024-01-29,Southwest,D,11:00,2,On Time
+575,2024-01-29,American,E,18:45,10,On Time
+576,2024-01-29,United,C,19:15,2,On Time
+577,2024-01-29,United,A,13:45,62,Delayed
+578,2024-01-29,Southwest,D,06:00,1,On Time
+579,2024-01-30,Southwest,D,14:45,24,Delayed
+580,2024-01-30,Southwest,C,22:30,22,Delayed
+581,2024-01-30,American,D,16:15,1,On Time
+582,2024-01-30,American,A,13:45,4,On Time
+583,2024-01-30,American,B,19:30,36,Delayed
+584,2024-01-30,American,B,14:45,17,Delayed
+585,2024-01-30,Southwest,C,11:45,29,Delayed
+586,2024-01-30,Delta,D,22:30,61,Delayed
+587,2024-01-30,Delta,D,05:30,3,On Time
+588,2024-01-30,United,F,20:30,5,On Time
+589,2024-01-30,Delta,D,18:15,29,Delayed
+590,2024-01-30,Delta,E,15:15,5,On Time
+591,2024-01-30,United,B,17:15,2,On Time
+592,2024-01-30,American,A,09:00,1,On Time
+593,2024-01-30,Delta,C,06:15,1,On Time
+594,2024-01-31,American,D,10:15,1,On Time
+595,2024-01-31,American,A,15:15,25,Delayed
+596,2024-01-31,American,F,06:15,26,Delayed
+597,2024-01-31,United,F,20:00,1,On Time
+598,2024-01-31,United,A,05:00,8,On Time
+599,2024-01-31,Delta,F,19:15,20,Delayed
+600,2024-01-31,United,C,21:00,24,Delayed
+601,2024-01-31,American,B,07:00,2,On Time
+602,2024-01-31,American,F,06:30,17,Delayed
+603,2024-01-31,American,C,13:45,3,On Time
+604,2024-01-31,United,E,08:15,10,On Time
+605,2024-01-31,United,D,07:00,5,On Time
+606,2024-01-31,Southwest,A,18:45,30,Delayed
+607,2024-01-31,United,C,07:45,16,Delayed
+608,2024-01-31,Southwest,C,05:15,16,Delayed
+609,2024-01-31,United,D,06:45,7,On Time
+610,2024-01-31,United,F,12:15,7,On Time
+611,2024-01-31,United,B,21:00,8,On Time
+612,2024-01-31,Delta,C,10:30,2,On Time
+613,2024-01-31,Southwest,A,18:30,26,Delayed
+614,2024-01-31,Delta,C,17:30,14,On Time
+615,2024-01-31,United,E,19:45,1,On Time
+616,2024-01-31,Delta,A,08:45,4,On Time
+617,2024-02-01,Delta,C,18:30,1,On Time
+618,2024-02-01,Southwest,D,18:15,13,On Time
+619,2024-02-01,United,F,12:15,16,Delayed
+620,2024-02-01,Southwest,E,13:45,3,On Time
+621,2024-02-01,Southwest,C,21:45,0,On Time
+622,2024-02-01,Delta,E,18:15,12,On Time
+623,2024-02-01,American,A,20:45,3,On Time
+624,2024-02-01,Southwest,A,13:00,0,On Time
+625,2024-02-01,American,E,06:45,46,Delayed
+626,2024-02-01,American,F,19:45,5,On Time
+627,2024-02-01,United,D,19:30,13,On Time
+628,2024-02-01,American,A,12:00,14,On Time
+629,2024-02-01,American,D,08:30,10,On Time
+630,2024-02-01,American,B,16:00,52,Delayed
+631,2024-02-01,Delta,F,06:30,20,Delayed
+632,2024-02-01,Delta,E,10:15,4,On Time
+633,2024-02-01,American,C,16:15,0,On Time
+634,2024-02-01,Delta,A,14:00,8,On Time
+635,2024-02-01,American,E,07:45,9,On Time
+636,2024-02-01,Delta,F,21:00,11,On Time
+637,2024-02-01,American,D,21:15,26,Delayed
+638,2024-02-01,Delta,A,05:15,9,On Time
+639,2024-02-02,Delta,E,15:15,40,Delayed
+640,2024-02-02,Delta,C,21:00,25,Delayed
+641,2024-02-02,Delta,C,11:30,31,Delayed
+642,2024-02-02,Southwest,F,18:30,8,On Time
+643,2024-02-02,Southwest,D,17:00,7,On Time
+644,2024-02-02,Delta,D,12:45,16,Delayed
+645,2024-02-02,Southwest,D,20:00,26,Delayed
+646,2024-02-02,United,F,09:45,29,Delayed
+647,2024-02-02,Southwest,D,17:30,0,On Time
+648,2024-02-02,United,A,22:15,1,On Time
+649,2024-02-02,Southwest,D,08:15,1,On Time
+650,2024-02-02,American,B,12:45,34,Delayed
+651,2024-02-02,Southwest,E,19:00,42,Delayed
+652,2024-02-02,Southwest,E,13:15,6,On Time
+653,2024-02-02,United,A,14:15,15,On Time
+654,2024-02-02,United,C,11:45,2,On Time
+655,2024-02-02,American,F,06:00,1,On Time
+656,2024-02-02,United,D,12:15,0,On Time
+657,2024-02-02,Delta,B,07:30,9,On Time
+658,2024-02-02,Southwest,A,09:00,24,Delayed
+659,2024-02-02,Southwest,B,10:45,7,On Time
+660,2024-02-02,Delta,E,08:30,1,On Time
+661,2024-02-02,American,B,10:15,13,On Time
+662,2024-02-02,Southwest,A,07:30,29,Delayed
+663,2024-02-03,United,C,12:30,13,On Time
+664,2024-02-03,Southwest,B,08:45,17,Delayed
+665,2024-02-03,American,A,09:30,2,On Time
+666,2024-02-03,Delta,B,05:30,2,On Time
+667,2024-02-03,Southwest,C,22:45,0,On Time
+668,2024-02-03,American,E,15:00,1,On Time
+669,2024-02-03,American,D,12:15,27,Delayed
+670,2024-02-03,Delta,E,10:00,1,On Time
+671,2024-02-03,American,C,22:00,3,On Time
+672,2024-02-03,United,C,07:30,2,On Time
+673,2024-02-03,Southwest,B,18:15,38,Delayed
+674,2024-02-03,Southwest,E,22:15,21,Delayed
+675,2024-02-03,Delta,B,14:00,27,Delayed
+676,2024-02-03,American,B,09:30,32,Delayed
+677,2024-02-03,Southwest,F,13:00,1,On Time
+678,2024-02-03,United,D,21:00,52,Delayed
+679,2024-02-03,Delta,B,09:00,9,On Time
+680,2024-02-03,Southwest,C,17:15,4,On Time
+681,2024-02-03,Delta,C,07:15,26,Delayed
+682,2024-02-03,American,E,21:00,6,On Time
+683,2024-02-03,Southwest,A,16:30,12,On Time
+684,2024-02-04,Southwest,D,07:00,14,On Time
+685,2024-02-04,American,F,21:30,31,Delayed
+686,2024-02-04,American,E,09:30,7,On Time
+687,2024-02-04,Southwest,C,21:00,11,On Time
+688,2024-02-04,Southwest,D,06:30,6,On Time
+689,2024-02-04,Delta,D,15:30,1,On Time
+690,2024-02-04,United,A,13:15,0,On Time
+691,2024-02-04,American,F,20:45,9,On Time
+692,2024-02-04,United,C,08:15,11,On Time
+693,2024-02-04,United,A,15:45,10,On Time
+694,2024-02-04,Southwest,D,18:30,7,On Time
+695,2024-02-04,Southwest,A,11:00,9,On Time
+696,2024-02-04,Delta,A,12:45,0,On Time
+697,2024-02-04,Southwest,F,05:45,4,On Time
+698,2024-02-04,Southwest,F,07:30,0,On Time
+699,2024-02-04,Delta,F,20:15,9,On Time
+700,2024-02-04,United,F,15:30,17,Delayed
+701,2024-02-04,American,C,20:45,24,Delayed
+702,2024-02-04,American,B,19:30,91,Delayed
+703,2024-02-04,Southwest,C,21:45,5,On Time
+704,2024-02-04,Delta,E,05:45,26,Delayed
+705,2024-02-04,American,A,17:45,41,Delayed
+706,2024-02-05,American,A,08:30,14,On Time
+707,2024-02-05,American,F,06:15,4,On Time
+708,2024-02-05,Southwest,F,10:30,6,On Time
+709,2024-02-05,Delta,E,17:00,17,Delayed
+710,2024-02-05,Delta,B,10:45,17,Delayed
+711,2024-02-05,American,B,14:45,18,Delayed
+712,2024-02-05,Southwest,D,06:15,7,On Time
+713,2024-02-05,Southwest,F,06:30,7,On Time
+714,2024-02-05,Delta,A,11:00,27,Delayed
+715,2024-02-05,Southwest,A,17:00,3,On Time
+716,2024-02-05,United,B,21:30,10,On Time
+717,2024-02-05,American,D,14:45,14,On Time
+718,2024-02-05,United,D,22:15,9,On Time
+719,2024-02-05,American,E,19:15,12,On Time
+720,2024-02-05,Southwest,F,12:15,7,On Time
+721,2024-02-06,Southwest,A,22:45,14,On Time
+722,2024-02-06,Southwest,A,16:00,5,On Time
+723,2024-02-06,Delta,B,22:45,13,On Time
+724,2024-02-06,American,A,12:00,6,On Time
+725,2024-02-06,Southwest,A,15:00,6,On Time
+726,2024-02-06,United,C,06:45,12,On Time
+727,2024-02-06,American,D,17:30,36,Delayed
+728,2024-02-06,United,E,09:00,17,Delayed
+729,2024-02-06,American,B,05:45,15,On Time
+730,2024-02-06,Southwest,E,19:30,4,On Time
+731,2024-02-06,Southwest,A,09:00,4,On Time
+732,2024-02-06,Delta,E,08:30,43,Delayed
+733,2024-02-06,Delta,F,16:00,0,On Time
+734,2024-02-06,Delta,C,20:30,10,On Time
+735,2024-02-06,United,C,19:45,3,On Time
+736,2024-02-06,Delta,E,16:00,0,On Time
+737,2024-02-07,United,A,09:00,8,On Time
+738,2024-02-07,American,F,13:15,9,On Time
+739,2024-02-07,Delta,E,05:45,16,Delayed
+740,2024-02-07,Southwest,D,06:00,2,On Time
+741,2024-02-07,American,D,22:30,5,On Time
+742,2024-02-07,American,E,12:15,3,On Time
+743,2024-02-07,Delta,F,15:30,16,Delayed
+744,2024-02-07,Delta,B,14:00,4,On Time
+745,2024-02-07,American,B,18:00,7,On Time
+746,2024-02-07,Southwest,A,21:45,44,Delayed
+747,2024-02-07,American,F,07:30,6,On Time
+748,2024-02-07,American,B,15:00,49,Delayed
+749,2024-02-07,American,A,10:00,5,On Time
+750,2024-02-07,Southwest,F,12:45,55,Delayed
+751,2024-02-07,Delta,B,14:30,7,On Time
+752,2024-02-07,American,E,09:15,8,On Time
+753,2024-02-08,American,A,05:30,10,On Time
+754,2024-02-08,Delta,D,16:45,12,On Time
+755,2024-02-08,Southwest,A,17:30,31,Delayed
+756,2024-02-08,Delta,E,15:45,22,Delayed
+757,2024-02-08,Delta,E,08:45,1,On Time
+758,2024-02-08,Southwest,D,06:15,9,On Time
+759,2024-02-08,American,A,16:15,13,On Time
+760,2024-02-08,United,C,09:45,71,Delayed
+761,2024-02-08,Delta,A,19:45,1,On Time
+762,2024-02-08,United,A,16:30,2,On Time
+763,2024-02-08,Southwest,E,14:30,12,On Time
+764,2024-02-08,Southwest,D,12:45,35,Delayed
+765,2024-02-08,Southwest,D,15:30,24,Delayed
+766,2024-02-08,Delta,A,10:45,19,Delayed
+767,2024-02-08,United,E,18:15,17,Delayed
+768,2024-02-08,Delta,B,13:30,0,On Time
+769,2024-02-08,American,E,10:30,21,Delayed
+770,2024-02-08,United,F,18:00,14,On Time
+771,2024-02-08,Delta,F,22:15,11,On Time
+772,2024-02-08,American,D,07:15,29,Delayed
+773,2024-02-08,Delta,C,17:30,16,Delayed
+774,2024-02-08,American,D,17:15,28,Delayed
+775,2024-02-08,Southwest,D,10:00,3,On Time
+776,2024-02-09,United,C,16:30,9,On Time
+777,2024-02-09,United,D,10:15,0,On Time
+778,2024-02-09,Delta,B,16:30,19,Delayed
+779,2024-02-09,American,B,21:30,7,On Time
+780,2024-02-09,United,F,06:30,7,On Time
+781,2024-02-09,Southwest,A,08:30,3,On Time
+782,2024-02-09,American,A,22:15,28,Delayed
+783,2024-02-09,American,D,09:15,23,Delayed
+784,2024-02-09,American,B,14:30,15,On Time
+785,2024-02-09,American,C,12:15,10,On Time
+786,2024-02-09,Southwest,D,09:30,0,On Time
+787,2024-02-09,Delta,F,17:00,1,On Time
+788,2024-02-09,Delta,E,06:30,10,On Time
+789,2024-02-09,American,E,11:00,15,On Time
+790,2024-02-09,Southwest,B,07:30,45,Delayed
+791,2024-02-09,American,E,18:00,23,Delayed
+792,2024-02-09,Delta,B,22:45,28,Delayed
+793,2024-02-09,United,C,17:45,1,On Time
+794,2024-02-09,United,A,15:00,0,On Time
+795,2024-02-09,Delta,A,21:15,30,Delayed
+796,2024-02-09,American,C,08:00,19,Delayed
+797,2024-02-09,Southwest,E,07:45,21,Delayed
+798,2024-02-10,American,E,19:30,43,Delayed
+799,2024-02-10,American,B,18:45,25,Delayed
+800,2024-02-10,American,C,17:00,4,On Time
+801,2024-02-10,United,A,20:30,0,On Time
+802,2024-02-10,Delta,A,08:15,42,Delayed
+803,2024-02-10,American,E,07:30,24,Delayed
+804,2024-02-10,American,B,08:15,22,Delayed
+805,2024-02-10,Delta,E,08:30,10,On Time
+806,2024-02-10,Delta,F,17:00,7,On Time
+807,2024-02-10,American,F,13:00,13,On Time
+808,2024-02-10,American,F,10:00,19,Delayed
+809,2024-02-10,Southwest,D,07:45,0,On Time
+810,2024-02-10,American,A,16:15,19,Delayed
+811,2024-02-10,United,F,09:00,8,On Time
+812,2024-02-10,Southwest,F,09:00,4,On Time
+813,2024-02-10,American,F,20:30,115,Delayed
+814,2024-02-10,Southwest,B,12:00,7,On Time
+815,2024-02-10,Southwest,F,14:45,2,On Time
+816,2024-02-10,United,F,13:00,45,Delayed
+817,2024-02-10,Southwest,A,21:45,44,Delayed
+818,2024-02-10,Southwest,A,09:15,22,Delayed
+819,2024-02-11,American,B,08:00,40,Delayed
+820,2024-02-11,Southwest,F,12:30,18,Delayed
+821,2024-02-11,Southwest,E,05:30,17,Delayed
+822,2024-02-11,Delta,A,21:15,24,Delayed
+823,2024-02-11,American,E,17:15,6,On Time
+824,2024-02-11,American,E,07:00,18,Delayed
+825,2024-02-11,Southwest,D,05:00,7,On Time
+826,2024-02-11,Southwest,D,08:15,0,On Time
+827,2024-02-11,Delta,F,07:45,23,Delayed
+828,2024-02-11,American,C,06:00,1,On Time
+829,2024-02-11,American,C,10:00,11,On Time
+830,2024-02-11,United,E,05:00,19,Delayed
+831,2024-02-11,Southwest,D,20:45,18,Delayed
+832,2024-02-11,Delta,D,20:30,31,Delayed
+833,2024-02-11,American,F,08:45,5,On Time
+834,2024-02-11,American,C,09:45,4,On Time
+835,2024-02-11,Southwest,B,22:45,60,Delayed
+836,2024-02-12,Delta,D,20:45,0,On Time
+837,2024-02-12,Delta,F,15:00,6,On Time
+838,2024-02-12,United,E,05:00,19,Delayed
+839,2024-02-12,Delta,C,05:15,1,On Time
+840,2024-02-12,Southwest,D,09:30,0,On Time
+841,2024-02-12,Southwest,F,05:00,23,Delayed
+842,2024-02-12,Delta,B,22:30,8,On Time
+843,2024-02-12,United,E,14:00,1,On Time
+844,2024-02-12,American,A,13:00,3,On Time
+845,2024-02-12,Southwest,C,21:30,11,On Time
+846,2024-02-12,Southwest,B,07:15,10,On Time
+847,2024-02-12,Southwest,C,14:15,51,Delayed
+848,2024-02-12,Delta,F,19:15,1,On Time
+849,2024-02-12,Southwest,B,16:30,14,On Time
+850,2024-02-12,Southwest,C,06:15,50,Delayed
+851,2024-02-12,American,F,14:00,18,Delayed
+852,2024-02-12,American,B,13:30,4,On Time
+853,2024-02-12,Delta,B,08:00,1,On Time
+854,2024-02-13,American,E,19:30,20,Delayed
+855,2024-02-13,Delta,D,08:15,7,On Time
+856,2024-02-13,Southwest,A,05:00,7,On Time
+857,2024-02-13,United,D,13:45,42,Delayed
+858,2024-02-13,American,F,13:00,14,On Time
+859,2024-02-13,United,C,20:15,1,On Time
+860,2024-02-13,Delta,A,22:30,33,Delayed
+861,2024-02-13,Southwest,A,19:30,25,Delayed
+862,2024-02-13,United,B,21:30,15,On Time
+863,2024-02-13,Delta,D,17:45,15,On Time
+864,2024-02-13,Delta,F,19:45,4,On Time
+865,2024-02-13,American,C,09:30,4,On Time
+866,2024-02-13,Delta,C,22:30,3,On Time
+867,2024-02-13,Southwest,B,20:15,6,On Time
+868,2024-02-13,American,C,22:15,7,On Time
+869,2024-02-13,United,F,17:45,3,On Time
+870,2024-02-13,United,C,05:30,20,Delayed
+871,2024-02-13,Delta,F,18:15,8,On Time
+872,2024-02-13,American,D,15:00,6,On Time
+873,2024-02-14,Southwest,E,09:00,0,On Time
+874,2024-02-14,Southwest,D,06:00,31,Delayed
+875,2024-02-14,United,D,10:15,10,On Time
+876,2024-02-14,United,B,15:00,22,Delayed
+877,2024-02-14,American,F,15:15,0,On Time
+878,2024-02-14,American,D,11:00,9,On Time
+879,2024-02-14,United,F,19:00,21,Delayed
+880,2024-02-14,United,E,22:00,4,On Time
+881,2024-02-14,United,D,20:00,1,On Time
+882,2024-02-14,Southwest,D,22:30,19,Delayed
+883,2024-02-14,American,D,07:45,5,On Time
+884,2024-02-14,Delta,B,14:30,4,On Time
+885,2024-02-14,Southwest,E,17:30,3,On Time
+886,2024-02-14,United,B,08:15,6,On Time
+887,2024-02-14,Delta,E,11:45,31,Delayed
+888,2024-02-15,Southwest,F,10:30,26,Delayed
+889,2024-02-15,Southwest,A,13:15,23,Delayed
+890,2024-02-15,United,A,16:30,9,On Time
+891,2024-02-15,Southwest,E,13:00,9,On Time
+892,2024-02-15,Southwest,E,18:45,3,On Time
+893,2024-02-15,United,E,21:30,0,On Time
+894,2024-02-15,United,F,10:45,10,On Time
+895,2024-02-15,Southwest,B,05:15,0,On Time
+896,2024-02-15,American,C,18:15,6,On Time
+897,2024-02-15,American,C,08:15,10,On Time
+898,2024-02-15,United,C,18:30,0,On Time
+899,2024-02-15,American,C,19:15,48,Delayed
+900,2024-02-15,Delta,C,13:30,21,Delayed
+901,2024-02-15,United,A,07:15,7,On Time
+902,2024-02-15,United,A,22:15,7,On Time
+903,2024-02-15,Delta,A,06:00,11,On Time
+904,2024-02-15,Delta,E,11:45,59,Delayed
+905,2024-02-15,Southwest,B,09:15,33,Delayed
+906,2024-02-15,Delta,F,21:30,8,On Time
+907,2024-02-15,Delta,C,21:30,1,On Time
+908,2024-02-15,American,B,19:00,14,On Time
+909,2024-02-15,Delta,A,20:00,19,Delayed
+910,2024-02-15,Southwest,F,20:00,9,On Time
+911,2024-02-16,Southwest,B,11:15,10,On Time
+912,2024-02-16,Southwest,E,13:00,9,On Time
+913,2024-02-16,United,C,18:15,15,On Time
+914,2024-02-16,United,F,20:15,1,On Time
+915,2024-02-16,American,D,16:30,11,On Time
+916,2024-02-16,Delta,E,21:00,8,On Time
+917,2024-02-16,Southwest,B,19:45,88,Delayed
+918,2024-02-16,United,C,07:30,1,On Time
+919,2024-02-16,Southwest,B,08:30,6,On Time
+920,2024-02-16,Southwest,B,15:45,0,On Time
+921,2024-02-16,American,B,21:00,0,On Time
+922,2024-02-16,American,A,19:45,1,On Time
+923,2024-02-16,Southwest,B,09:45,20,Delayed
+924,2024-02-16,American,D,21:30,16,Delayed
+925,2024-02-16,American,F,11:45,3,On Time
+926,2024-02-16,Southwest,E,21:45,21,Delayed
+927,2024-02-16,United,F,08:15,12,On Time
+928,2024-02-16,Delta,C,14:45,9,On Time
+929,2024-02-16,Delta,E,20:45,13,On Time
+930,2024-02-16,United,D,06:15,30,Delayed
+931,2024-02-16,United,B,15:30,12,On Time
+932,2024-02-16,Southwest,B,22:45,8,On Time
+933,2024-02-16,Delta,C,21:45,11,On Time
+934,2024-02-17,United,E,07:15,3,On Time
+935,2024-02-17,Southwest,F,18:00,15,On Time
+936,2024-02-17,Southwest,D,14:30,22,Delayed
+937,2024-02-17,Delta,D,10:45,1,On Time
+938,2024-02-17,Delta,E,16:00,8,On Time
+939,2024-02-17,Southwest,E,10:00,31,Delayed
+940,2024-02-17,Delta,F,18:15,22,Delayed
+941,2024-02-17,American,E,12:30,34,Delayed
+942,2024-02-17,Southwest,A,10:15,27,Delayed
+943,2024-02-17,American,C,10:45,26,Delayed
+944,2024-02-17,Southwest,E,14:30,90,Delayed
+945,2024-02-17,Southwest,C,17:00,48,Delayed
+946,2024-02-17,American,E,15:15,5,On Time
+947,2024-02-17,United,B,07:15,0,On Time
+948,2024-02-17,Southwest,C,21:45,5,On Time
+949,2024-02-17,Delta,E,07:30,14,On Time
+950,2024-02-17,Delta,E,14:30,13,On Time
+951,2024-02-17,Southwest,A,15:15,18,Delayed
+952,2024-02-17,Southwest,F,20:30,30,Delayed
+953,2024-02-17,Southwest,C,06:30,14,On Time
+954,2024-02-18,Delta,B,16:15,15,On Time
+955,2024-02-18,American,C,10:00,10,On Time
+956,2024-02-18,United,C,22:30,16,Delayed
+957,2024-02-18,Southwest,A,16:00,0,On Time
+958,2024-02-18,Southwest,A,13:15,4,On Time
+959,2024-02-18,American,D,11:45,8,On Time
+960,2024-02-18,United,F,22:30,9,On Time
+961,2024-02-18,Delta,C,22:45,17,Delayed
+962,2024-02-18,United,D,15:30,27,Delayed
+963,2024-02-18,United,F,10:30,15,On Time
+964,2024-02-18,Delta,F,17:00,13,On Time
+965,2024-02-18,Southwest,D,06:45,1,On Time
+966,2024-02-18,American,E,12:30,0,On Time
+967,2024-02-18,American,D,12:15,1,On Time
+968,2024-02-18,Southwest,E,20:15,16,Delayed
+969,2024-02-18,Delta,A,19:45,3,On Time
+970,2024-02-18,United,A,07:30,0,On Time
+971,2024-02-18,American,E,19:30,54,Delayed
+972,2024-02-18,Delta,D,18:45,6,On Time
+973,2024-02-19,Delta,C,21:45,33,Delayed
+974,2024-02-19,Southwest,D,18:30,23,Delayed
+975,2024-02-19,United,B,06:30,9,On Time
+976,2024-02-19,Delta,F,19:00,11,On Time
+977,2024-02-19,American,C,12:45,8,On Time
+978,2024-02-19,United,D,18:45,5,On Time
+979,2024-02-19,American,E,14:30,6,On Time
+980,2024-02-19,United,F,17:45,55,Delayed
+981,2024-02-19,United,F,08:30,22,Delayed
+982,2024-02-19,American,F,06:30,5,On Time
+983,2024-02-19,American,F,09:45,13,On Time
+984,2024-02-19,United,A,07:45,4,On Time
+985,2024-02-19,United,A,05:30,62,Delayed
+986,2024-02-19,Delta,F,14:00,8,On Time
+987,2024-02-19,Southwest,D,17:00,12,On Time
+988,2024-02-20,Southwest,E,21:30,3,On Time
+989,2024-02-20,American,B,21:45,33,Delayed
+990,2024-02-20,Southwest,D,22:00,20,Delayed
+991,2024-02-20,Southwest,A,16:15,27,Delayed
+992,2024-02-20,Southwest,D,07:45,7,On Time
+993,2024-02-20,Delta,E,12:00,33,Delayed
+994,2024-02-20,American,B,10:30,19,Delayed
+995,2024-02-20,American,A,18:30,7,On Time
+996,2024-02-20,Southwest,F,17:45,4,On Time
+997,2024-02-20,United,B,07:45,10,On Time
+998,2024-02-20,United,F,20:15,13,On Time
+999,2024-02-20,United,C,10:15,4,On Time
+1000,2024-02-20,Delta,E,16:00,19,Delayed
+1001,2024-02-20,United,D,13:30,3,On Time
+1002,2024-02-20,Delta,E,11:30,4,On Time
+1003,2024-02-20,American,E,14:15,0,On Time
+1004,2024-02-20,Delta,E,21:15,4,On Time
+1005,2024-02-20,United,C,21:45,9,On Time
+1006,2024-02-20,American,C,17:30,5,On Time
+1007,2024-02-20,Delta,A,19:30,13,On Time
+1008,2024-02-20,United,A,20:30,10,On Time
+1009,2024-02-20,Delta,F,11:00,22,Delayed
+1010,2024-02-21,Delta,A,17:30,0,On Time
+1011,2024-02-21,Delta,D,12:30,14,On Time
+1012,2024-02-21,Southwest,D,14:45,10,On Time
+1013,2024-02-21,United,A,05:00,8,On Time
+1014,2024-02-21,American,A,16:30,21,Delayed
+1015,2024-02-21,United,A,19:45,19,Delayed
+1016,2024-02-21,American,A,12:45,38,Delayed
+1017,2024-02-21,Southwest,C,15:45,3,On Time
+1018,2024-02-21,Delta,B,11:30,15,On Time
+1019,2024-02-21,United,B,12:30,39,Delayed
+1020,2024-02-21,Southwest,F,10:00,20,Delayed
+1021,2024-02-21,Southwest,C,12:00,4,On Time
+1022,2024-02-21,Southwest,C,21:00,48,Delayed
+1023,2024-02-21,United,C,11:45,13,On Time
+1024,2024-02-21,Southwest,E,10:45,28,Delayed
+1025,2024-02-21,Southwest,D,08:15,4,On Time
+1026,2024-02-22,Delta,A,17:45,17,Delayed
+1027,2024-02-22,Southwest,B,08:30,8,On Time
+1028,2024-02-22,Southwest,D,07:15,1,On Time
+1029,2024-02-22,American,A,05:15,6,On Time
+1030,2024-02-22,United,D,16:45,41,Delayed
+1031,2024-02-22,Southwest,D,10:45,2,On Time
+1032,2024-02-22,United,C,18:00,8,On Time
+1033,2024-02-22,American,B,14:00,20,Delayed
+1034,2024-02-22,United,C,07:45,25,Delayed
+1035,2024-02-22,American,A,20:00,0,On Time
+1036,2024-02-22,Southwest,B,16:15,18,Delayed
+1037,2024-02-22,American,A,16:30,5,On Time
+1038,2024-02-22,Delta,A,06:15,42,Delayed
+1039,2024-02-22,United,E,21:45,1,On Time
+1040,2024-02-22,Southwest,B,05:45,5,On Time
+1041,2024-02-22,Delta,E,18:45,19,Delayed
+1042,2024-02-22,American,D,09:15,34,Delayed
+1043,2024-02-22,United,E,19:30,16,Delayed
+1044,2024-02-22,American,C,07:15,11,On Time
+1045,2024-02-22,American,A,12:15,12,On Time
+1046,2024-02-22,American,E,12:30,4,On Time
+1047,2024-02-22,American,C,17:00,9,On Time
+1048,2024-02-22,Delta,C,17:15,3,On Time
+1049,2024-02-22,American,C,20:15,20,Delayed
+1050,2024-02-23,Delta,C,16:45,30,Delayed
+1051,2024-02-23,Delta,F,12:30,12,On Time
+1052,2024-02-23,Delta,B,13:30,52,Delayed
+1053,2024-02-23,American,E,16:00,9,On Time
+1054,2024-02-23,Southwest,B,19:00,4,On Time
+1055,2024-02-23,United,F,14:00,20,Delayed
+1056,2024-02-23,United,A,07:00,23,Delayed
+1057,2024-02-23,Delta,F,21:15,3,On Time
+1058,2024-02-23,United,C,21:45,9,On Time
+1059,2024-02-23,Delta,F,18:15,7,On Time
+1060,2024-02-23,American,C,17:00,4,On Time
+1061,2024-02-23,Delta,A,10:00,40,Delayed
+1062,2024-02-23,United,D,06:15,41,Delayed
+1063,2024-02-23,United,B,10:15,15,On Time
+1064,2024-02-23,United,E,08:00,39,Delayed
+1065,2024-02-23,Southwest,C,11:45,4,On Time
+1066,2024-02-23,Delta,C,15:30,16,Delayed
+1067,2024-02-23,American,D,08:30,7,On Time
+1068,2024-02-23,Delta,C,12:45,14,On Time
+1069,2024-02-23,American,E,22:00,8,On Time
+1070,2024-02-23,Delta,F,10:15,11,On Time
+1071,2024-02-23,American,F,08:45,2,On Time
+1072,2024-02-23,American,E,08:00,3,On Time
+1073,2024-02-23,American,C,06:30,1,On Time
+1074,2024-02-23,American,D,13:30,3,On Time
+1075,2024-02-24,American,C,11:15,5,On Time
+1076,2024-02-24,Delta,E,14:15,11,On Time
+1077,2024-02-24,United,E,11:45,8,On Time
+1078,2024-02-24,United,E,09:15,11,On Time
+1079,2024-02-24,Southwest,F,18:45,7,On Time
+1080,2024-02-24,United,A,14:15,4,On Time
+1081,2024-02-24,American,C,09:15,12,On Time
+1082,2024-02-24,Delta,D,07:15,0,On Time
+1083,2024-02-24,Delta,F,08:00,19,Delayed
+1084,2024-02-24,American,F,10:30,43,Delayed
+1085,2024-02-24,Southwest,B,20:30,4,On Time
+1086,2024-02-24,Southwest,F,07:00,13,On Time
+1087,2024-02-24,Delta,A,05:15,1,On Time
+1088,2024-02-24,Delta,D,14:30,32,Delayed
+1089,2024-02-24,Southwest,A,06:00,12,On Time
+1090,2024-02-24,United,B,14:15,19,Delayed
+1091,2024-02-24,American,B,13:00,16,Delayed
+1092,2024-02-25,Delta,F,07:30,0,On Time
+1093,2024-02-25,American,F,17:30,2,On Time
+1094,2024-02-25,United,F,06:45,0,On Time
+1095,2024-02-25,United,C,15:45,12,On Time
+1096,2024-02-25,Southwest,B,20:15,22,Delayed
+1097,2024-02-25,Southwest,F,16:45,7,On Time
+1098,2024-02-25,Southwest,F,06:15,4,On Time
+1099,2024-02-25,United,C,12:45,8,On Time
+1100,2024-02-25,American,D,21:30,3,On Time
+1101,2024-02-25,American,D,12:00,1,On Time
+1102,2024-02-25,Southwest,F,19:45,5,On Time
+1103,2024-02-25,American,E,14:30,0,On Time
+1104,2024-02-25,American,F,09:00,6,On Time
+1105,2024-02-25,Delta,C,17:15,3,On Time
+1106,2024-02-25,United,B,10:30,6,On Time
+1107,2024-02-25,Delta,C,09:15,0,On Time
+1108,2024-02-25,United,E,06:00,4,On Time
+1109,2024-02-25,Southwest,D,08:15,6,On Time
+1110,2024-02-25,United,F,13:30,1,On Time
+1111,2024-02-25,Delta,D,19:30,26,Delayed
+1112,2024-02-25,Southwest,F,22:15,0,On Time
+1113,2024-02-25,American,E,15:00,1,On Time
+1114,2024-02-25,Delta,B,16:15,0,On Time
+1115,2024-02-25,United,C,11:45,56,Delayed
+1116,2024-02-26,United,B,06:30,7,On Time
+1117,2024-02-26,United,E,21:45,28,Delayed
+1118,2024-02-26,Southwest,E,15:45,25,Delayed
+1119,2024-02-26,United,D,08:30,0,On Time
+1120,2024-02-26,American,A,21:00,10,On Time
+1121,2024-02-26,Southwest,B,19:45,22,Delayed
+1122,2024-02-26,Southwest,B,14:45,10,On Time
+1123,2024-02-26,Southwest,E,15:45,1,On Time
+1124,2024-02-26,Southwest,A,07:45,2,On Time
+1125,2024-02-26,American,F,06:00,17,Delayed
+1126,2024-02-26,Delta,B,10:45,21,Delayed
+1127,2024-02-26,American,A,14:45,5,On Time
+1128,2024-02-26,American,E,14:30,0,On Time
+1129,2024-02-26,American,B,22:30,1,On Time
+1130,2024-02-26,American,B,06:45,6,On Time
+1131,2024-02-26,United,D,13:15,1,On Time
+1132,2024-02-26,Southwest,D,11:45,22,Delayed
+1133,2024-02-26,United,A,08:45,10,On Time
+1134,2024-02-26,American,E,18:15,0,On Time
+1135,2024-02-26,United,F,11:45,6,On Time
+1136,2024-02-26,United,B,09:15,2,On Time
+1137,2024-02-26,American,E,16:15,2,On Time
+1138,2024-02-26,American,E,08:15,11,On Time
+1139,2024-02-27,United,F,05:00,17,Delayed
+1140,2024-02-27,Southwest,C,07:30,0,On Time
+1141,2024-02-27,Southwest,F,09:45,5,On Time
+1142,2024-02-27,American,A,11:30,0,On Time
+1143,2024-02-27,Southwest,F,17:30,12,On Time
+1144,2024-02-27,United,D,19:45,38,Delayed
+1145,2024-02-27,American,C,06:00,1,On Time
+1146,2024-02-27,Delta,C,18:30,33,Delayed
+1147,2024-02-27,United,F,21:45,4,On Time
+1148,2024-02-27,Southwest,E,12:00,47,Delayed
+1149,2024-02-27,Delta,F,13:00,1,On Time
+1150,2024-02-27,Southwest,A,06:00,67,Delayed
+1151,2024-02-27,American,C,12:30,9,On Time
+1152,2024-02-27,Southwest,E,11:30,56,Delayed
+1153,2024-02-27,Southwest,A,20:30,33,Delayed
+1154,2024-02-27,Delta,D,19:00,7,On Time
+1155,2024-02-27,Southwest,A,10:45,5,On Time
+1156,2024-02-27,Southwest,D,07:45,2,On Time
+1157,2024-02-28,American,C,17:45,21,Delayed
+1158,2024-02-28,Delta,E,10:30,14,On Time
+1159,2024-02-28,Southwest,C,19:00,23,Delayed
+1160,2024-02-28,United,C,12:45,12,On Time
+1161,2024-02-28,American,C,15:00,11,On Time
+1162,2024-02-28,Southwest,F,20:30,55,Delayed
+1163,2024-02-28,Southwest,F,15:15,5,On Time
+1164,2024-02-28,United,F,06:30,4,On Time
+1165,2024-02-28,Delta,C,10:00,14,On Time
+1166,2024-02-28,United,C,12:45,13,On Time
+1167,2024-02-28,American,B,11:00,85,Delayed
+1168,2024-02-28,Southwest,E,10:15,6,On Time
+1169,2024-02-28,American,A,09:15,19,Delayed
+1170,2024-02-28,United,A,17:00,26,Delayed
+1171,2024-02-28,Southwest,F,08:30,40,Delayed
+1172,2024-02-28,Southwest,E,15:45,40,Delayed
+1173,2024-02-28,Delta,B,22:45,13,On Time
+1174,2024-02-28,Southwest,F,05:45,2,On Time
+1175,2024-02-29,American,E,07:45,1,On Time
+1176,2024-02-29,Delta,C,17:30,9,On Time
+1177,2024-02-29,Delta,F,10:15,14,On Time
+1178,2024-02-29,United,F,10:45,25,Delayed
+1179,2024-02-29,United,B,21:15,3,On Time
+1180,2024-02-29,United,C,11:45,13,On Time
+1181,2024-02-29,American,B,05:00,2,On Time
+1182,2024-02-29,United,B,08:00,14,On Time
+1183,2024-02-29,United,A,08:00,0,On Time
+1184,2024-02-29,Southwest,D,07:45,6,On Time
+1185,2024-02-29,Southwest,F,22:45,1,On Time
+1186,2024-02-29,American,C,22:45,5,On Time
+1187,2024-02-29,American,E,19:30,8,On Time
+1188,2024-02-29,United,A,21:30,42,Delayed
+1189,2024-02-29,Southwest,B,08:15,1,On Time
+1190,2024-03-01,Southwest,E,22:15,4,On Time
+1191,2024-03-01,Southwest,B,05:30,31,Delayed
+1192,2024-03-01,American,F,17:15,19,Delayed
+1193,2024-03-01,Delta,F,09:15,13,On Time
+1194,2024-03-01,American,F,14:00,2,On Time
+1195,2024-03-01,American,E,11:00,31,Delayed
+1196,2024-03-01,Southwest,B,05:30,2,On Time
+1197,2024-03-01,United,C,11:00,1,On Time
+1198,2024-03-01,United,E,11:30,9,On Time
+1199,2024-03-01,United,C,05:45,0,On Time
+1200,2024-03-01,Delta,B,08:30,13,On Time
+1201,2024-03-01,United,A,06:45,41,Delayed
+1202,2024-03-01,American,D,20:30,11,On Time
+1203,2024-03-01,United,E,21:00,0,On Time
+1204,2024-03-01,Southwest,B,09:15,4,On Time
+1205,2024-03-01,Delta,C,11:15,1,On Time
+1206,2024-03-01,American,E,19:30,3,On Time
+1207,2024-03-01,Southwest,F,19:30,0,On Time
+1208,2024-03-02,United,D,07:45,4,On Time
+1209,2024-03-02,Southwest,E,19:45,0,On Time
+1210,2024-03-02,Southwest,A,12:30,11,On Time
+1211,2024-03-02,Southwest,F,18:00,1,On Time
+1212,2024-03-02,Delta,E,06:00,34,Delayed
+1213,2024-03-02,American,F,16:00,6,On Time
+1214,2024-03-02,United,D,12:45,9,On Time
+1215,2024-03-02,American,F,21:45,1,On Time
+1216,2024-03-02,Southwest,F,13:45,6,On Time
+1217,2024-03-02,United,F,19:00,44,Delayed
+1218,2024-03-02,United,C,17:30,12,On Time
+1219,2024-03-02,American,D,19:00,8,On Time
+1220,2024-03-02,United,C,05:45,2,On Time
+1221,2024-03-02,American,F,12:15,19,Delayed
+1222,2024-03-02,American,F,17:00,2,On Time
+1223,2024-03-02,United,E,22:30,3,On Time
+1224,2024-03-02,Southwest,E,22:30,38,Delayed
+1225,2024-03-03,Southwest,C,19:00,15,On Time
+1226,2024-03-03,United,F,11:00,17,Delayed
+1227,2024-03-03,Delta,C,17:45,10,On Time
+1228,2024-03-03,American,F,15:30,14,On Time
+1229,2024-03-03,American,D,22:45,19,Delayed
+1230,2024-03-03,American,E,05:30,11,On Time
+1231,2024-03-03,United,C,21:00,17,Delayed
+1232,2024-03-03,United,D,12:45,16,Delayed
+1233,2024-03-03,American,E,20:45,16,Delayed
+1234,2024-03-03,Southwest,F,18:45,2,On Time
+1235,2024-03-03,Delta,F,12:00,71,Delayed
+1236,2024-03-03,United,E,15:30,8,On Time
+1237,2024-03-03,Delta,E,15:15,12,On Time
+1238,2024-03-03,American,B,11:30,5,On Time
+1239,2024-03-03,Southwest,B,19:45,4,On Time
+1240,2024-03-03,Southwest,A,20:45,18,Delayed
+1241,2024-03-04,United,E,17:00,23,Delayed
+1242,2024-03-04,Delta,F,17:00,2,On Time
+1243,2024-03-04,Delta,B,21:45,10,On Time
+1244,2024-03-04,Delta,E,22:00,10,On Time
+1245,2024-03-04,United,B,10:15,0,On Time
+1246,2024-03-04,Southwest,A,12:30,2,On Time
+1247,2024-03-04,Delta,E,22:45,11,On Time
+1248,2024-03-04,Delta,E,07:15,15,On Time
+1249,2024-03-04,United,A,21:45,1,On Time
+1250,2024-03-04,Southwest,C,20:15,14,On Time
+1251,2024-03-04,Delta,B,20:15,36,Delayed
+1252,2024-03-04,American,B,05:15,2,On Time
+1253,2024-03-04,United,E,06:00,12,On Time
+1254,2024-03-04,Southwest,B,10:45,26,Delayed
+1255,2024-03-04,United,D,14:15,18,Delayed
+1256,2024-03-04,Southwest,A,13:30,0,On Time
+1257,2024-03-04,Delta,C,17:00,5,On Time
+1258,2024-03-04,Southwest,B,09:30,16,Delayed
+1259,2024-03-04,American,B,19:15,25,Delayed
+1260,2024-03-05,Southwest,F,13:45,15,On Time
+1261,2024-03-05,Southwest,E,13:15,4,On Time
+1262,2024-03-05,Delta,D,14:00,3,On Time
+1263,2024-03-05,Delta,D,09:15,36,Delayed
+1264,2024-03-05,American,E,11:15,17,Delayed
+1265,2024-03-05,Southwest,A,18:15,22,Delayed
+1266,2024-03-05,Delta,E,22:45,7,On Time
+1267,2024-03-05,Southwest,D,06:00,19,Delayed
+1268,2024-03-05,United,C,14:30,10,On Time
+1269,2024-03-05,American,E,22:30,15,On Time
+1270,2024-03-05,American,A,19:15,22,Delayed
+1271,2024-03-05,Southwest,C,08:30,20,Delayed
+1272,2024-03-05,American,F,18:00,16,Delayed
+1273,2024-03-05,United,C,21:00,35,Delayed
+1274,2024-03-05,American,C,12:15,5,On Time
+1275,2024-03-05,Delta,C,14:00,5,On Time
+1276,2024-03-05,United,B,14:15,4,On Time
+1277,2024-03-05,Southwest,A,10:00,5,On Time
+1278,2024-03-05,Southwest,C,18:45,3,On Time
+1279,2024-03-05,United,E,06:45,24,Delayed
+1280,2024-03-05,Delta,F,18:30,45,Delayed
+1281,2024-03-05,Southwest,D,11:15,43,Delayed
+1282,2024-03-05,Southwest,A,20:45,22,Delayed
+1283,2024-03-05,American,F,17:00,13,On Time
+1284,2024-03-06,Delta,C,07:30,15,On Time
+1285,2024-03-06,Southwest,D,05:30,3,On Time
+1286,2024-03-06,Delta,A,13:30,27,Delayed
+1287,2024-03-06,Delta,C,22:30,19,Delayed
+1288,2024-03-06,American,C,21:30,23,Delayed
+1289,2024-03-06,United,E,19:15,7,On Time
+1290,2024-03-06,Southwest,B,21:45,19,Delayed
+1291,2024-03-06,Southwest,F,22:15,32,Delayed
+1292,2024-03-06,American,C,19:15,14,On Time
+1293,2024-03-06,American,E,19:00,5,On Time
+1294,2024-03-06,United,D,21:00,55,Delayed
+1295,2024-03-06,United,F,18:00,2,On Time
+1296,2024-03-06,American,E,11:00,0,On Time
+1297,2024-03-06,United,B,10:15,60,Delayed
+1298,2024-03-06,American,F,21:00,16,Delayed
+1299,2024-03-06,United,A,07:00,25,Delayed
+1300,2024-03-06,Southwest,B,15:00,4,On Time
+1301,2024-03-06,United,F,08:00,16,Delayed
+1302,2024-03-07,American,C,11:00,8,On Time
+1303,2024-03-07,Delta,B,13:00,3,On Time
+1304,2024-03-07,United,F,06:00,12,On Time
+1305,2024-03-07,Southwest,F,06:30,20,Delayed
+1306,2024-03-07,Southwest,A,05:15,19,Delayed
+1307,2024-03-07,Delta,B,05:45,5,On Time
+1308,2024-03-07,American,B,15:30,14,On Time
+1309,2024-03-07,United,F,13:30,0,On Time
+1310,2024-03-07,United,A,20:15,0,On Time
+1311,2024-03-07,Delta,A,17:45,24,Delayed
+1312,2024-03-07,United,A,09:30,16,Delayed
+1313,2024-03-07,Southwest,F,19:15,30,Delayed
+1314,2024-03-07,Southwest,B,06:15,0,On Time
+1315,2024-03-07,United,B,14:30,21,Delayed
+1316,2024-03-07,American,B,05:45,72,Delayed
+1317,2024-03-08,American,B,18:00,0,On Time
+1318,2024-03-08,Southwest,F,10:45,35,Delayed
+1319,2024-03-08,Delta,C,12:00,45,Delayed
+1320,2024-03-08,United,C,07:15,7,On Time
+1321,2024-03-08,Southwest,F,13:15,1,On Time
+1322,2024-03-08,Delta,F,20:15,5,On Time
+1323,2024-03-08,United,F,18:30,2,On Time
+1324,2024-03-08,Delta,D,07:45,5,On Time
+1325,2024-03-08,Delta,D,06:30,21,Delayed
+1326,2024-03-08,Delta,C,10:00,2,On Time
+1327,2024-03-08,United,B,20:45,8,On Time
+1328,2024-03-08,United,C,20:45,22,Delayed
+1329,2024-03-08,Southwest,D,21:00,24,Delayed
+1330,2024-03-08,United,E,11:45,5,On Time
+1331,2024-03-08,Southwest,C,08:15,11,On Time
+1332,2024-03-08,Delta,E,06:15,3,On Time
+1333,2024-03-08,Delta,D,16:15,15,On Time
+1334,2024-03-08,United,F,05:15,1,On Time
+1335,2024-03-08,Southwest,B,22:15,8,On Time
+1336,2024-03-08,Southwest,B,17:30,4,On Time
+1337,2024-03-08,Southwest,C,05:30,18,Delayed
+1338,2024-03-08,United,A,09:00,10,On Time
+1339,2024-03-08,American,F,20:30,14,On Time
+1340,2024-03-08,Delta,B,07:30,14,On Time
+1341,2024-03-08,Southwest,C,05:00,11,On Time
+1342,2024-03-09,Delta,E,22:30,1,On Time
+1343,2024-03-09,Southwest,B,18:45,15,On Time
+1344,2024-03-09,American,E,11:15,13,On Time
+1345,2024-03-09,Southwest,B,21:00,3,On Time
+1346,2024-03-09,American,F,16:45,13,On Time
+1347,2024-03-09,United,B,21:45,9,On Time
+1348,2024-03-09,Southwest,E,06:30,1,On Time
+1349,2024-03-09,United,B,19:00,17,Delayed
+1350,2024-03-09,Delta,C,05:30,0,On Time
+1351,2024-03-09,American,F,10:00,1,On Time
+1352,2024-03-09,Delta,B,05:00,3,On Time
+1353,2024-03-09,Delta,B,13:45,39,Delayed
+1354,2024-03-09,Southwest,E,20:15,3,On Time
+1355,2024-03-09,United,E,22:30,4,On Time
+1356,2024-03-09,American,E,21:15,19,Delayed
+1357,2024-03-09,United,A,17:15,3,On Time
+1358,2024-03-09,American,C,08:15,10,On Time
+1359,2024-03-09,Southwest,D,16:00,5,On Time
+1360,2024-03-09,American,B,09:30,20,Delayed
+1361,2024-03-09,American,E,18:45,14,On Time
+1362,2024-03-09,Southwest,A,07:15,37,Delayed
+1363,2024-03-09,American,C,16:00,8,On Time
+1364,2024-03-09,Southwest,D,15:00,28,Delayed
+1365,2024-03-09,United,F,08:00,13,On Time
+1366,2024-03-10,United,A,20:45,27,Delayed
+1367,2024-03-10,American,B,21:00,7,On Time
+1368,2024-03-10,United,D,12:00,9,On Time
+1369,2024-03-10,Southwest,B,20:30,20,Delayed
+1370,2024-03-10,Delta,E,18:30,9,On Time
+1371,2024-03-10,United,C,07:45,11,On Time
+1372,2024-03-10,Delta,D,06:15,24,Delayed
+1373,2024-03-10,American,F,16:00,18,Delayed
+1374,2024-03-10,American,D,06:45,1,On Time
+1375,2024-03-10,Southwest,E,12:15,0,On Time
+1376,2024-03-10,United,D,21:15,2,On Time
+1377,2024-03-10,American,B,18:30,10,On Time
+1378,2024-03-10,United,D,08:15,12,On Time
+1379,2024-03-10,American,F,18:15,10,On Time
+1380,2024-03-10,United,F,22:45,27,Delayed
+1381,2024-03-10,Southwest,F,12:30,12,On Time
+1382,2024-03-10,Southwest,E,15:00,22,Delayed
+1383,2024-03-10,United,E,15:30,8,On Time
+1384,2024-03-11,Delta,F,09:00,15,On Time
+1385,2024-03-11,Delta,A,21:15,0,On Time
+1386,2024-03-11,American,E,15:15,29,Delayed
+1387,2024-03-11,United,B,07:30,45,Delayed
+1388,2024-03-11,United,B,16:15,11,On Time
+1389,2024-03-11,Delta,C,13:15,19,Delayed
+1390,2024-03-11,United,E,05:45,0,On Time
+1391,2024-03-11,Delta,D,06:15,18,Delayed
+1392,2024-03-11,American,A,22:00,1,On Time
+1393,2024-03-11,Delta,C,14:15,3,On Time
+1394,2024-03-11,American,A,15:30,0,On Time
+1395,2024-03-11,American,E,06:45,4,On Time
+1396,2024-03-11,American,D,08:15,25,Delayed
+1397,2024-03-11,American,F,14:45,10,On Time
+1398,2024-03-11,American,B,22:00,24,Delayed
+1399,2024-03-11,Southwest,A,11:45,38,Delayed
+1400,2024-03-11,United,E,05:15,20,Delayed
+1401,2024-03-11,Southwest,F,16:15,6,On Time
+1402,2024-03-11,United,C,10:00,14,On Time
+1403,2024-03-11,American,F,14:45,53,Delayed
+1404,2024-03-11,United,D,11:45,9,On Time
+1405,2024-03-12,United,F,16:45,1,On Time
+1406,2024-03-12,Delta,C,14:45,59,Delayed
+1407,2024-03-12,United,E,06:00,0,On Time
+1408,2024-03-12,United,B,11:45,43,Delayed
+1409,2024-03-12,American,C,19:00,7,On Time
+1410,2024-03-12,United,F,22:00,12,On Time
+1411,2024-03-12,Delta,B,12:00,32,Delayed
+1412,2024-03-12,United,D,21:30,30,Delayed
+1413,2024-03-12,Delta,D,05:30,5,On Time
+1414,2024-03-12,United,C,14:30,17,Delayed
+1415,2024-03-12,United,E,20:00,1,On Time
+1416,2024-03-12,Delta,B,12:15,36,Delayed
+1417,2024-03-12,United,C,17:30,6,On Time
+1418,2024-03-12,American,B,16:15,0,On Time
+1419,2024-03-12,United,E,17:00,13,On Time
+1420,2024-03-12,American,F,11:15,28,Delayed
+1421,2024-03-12,Delta,E,13:45,2,On Time
+1422,2024-03-12,Delta,E,15:15,19,Delayed
+1423,2024-03-12,American,D,18:15,27,Delayed
+1424,2024-03-12,American,E,07:30,14,On Time
+1425,2024-03-12,American,B,10:00,3,On Time
+1426,2024-03-12,American,E,09:30,5,On Time
+1427,2024-03-12,American,E,17:00,62,Delayed
+1428,2024-03-13,American,E,20:15,21,Delayed
+1429,2024-03-13,United,E,14:00,0,On Time
+1430,2024-03-13,American,E,20:00,1,On Time
+1431,2024-03-13,United,E,07:00,56,Delayed
+1432,2024-03-13,United,F,11:15,10,On Time
+1433,2024-03-13,Delta,A,15:15,8,On Time
+1434,2024-03-13,Delta,C,11:45,14,On Time
+1435,2024-03-13,United,E,14:30,23,Delayed
+1436,2024-03-13,Southwest,B,14:45,46,Delayed
+1437,2024-03-13,Southwest,D,20:45,6,On Time
+1438,2024-03-13,Delta,E,06:45,14,On Time
+1439,2024-03-13,Southwest,A,22:30,44,Delayed
+1440,2024-03-13,Delta,A,06:00,13,On Time
+1441,2024-03-13,United,D,17:15,20,Delayed
+1442,2024-03-13,Southwest,B,09:15,9,On Time
+1443,2024-03-13,American,C,21:45,46,Delayed
+1444,2024-03-13,United,A,18:15,16,Delayed
+1445,2024-03-13,Delta,C,10:30,8,On Time
+1446,2024-03-13,United,A,13:45,10,On Time
+1447,2024-03-13,Southwest,C,12:30,23,Delayed
+1448,2024-03-13,Delta,D,15:15,29,Delayed
+1449,2024-03-14,Southwest,C,20:00,23,Delayed
+1450,2024-03-14,American,F,08:45,9,On Time
+1451,2024-03-14,United,B,08:30,17,Delayed
+1452,2024-03-14,American,E,22:30,8,On Time
+1453,2024-03-14,United,F,08:30,31,Delayed
+1454,2024-03-14,Delta,E,19:30,53,Delayed
+1455,2024-03-14,Delta,C,19:00,9,On Time
+1456,2024-03-14,American,D,17:15,2,On Time
+1457,2024-03-14,American,E,17:45,3,On Time
+1458,2024-03-14,Delta,B,08:30,42,Delayed
+1459,2024-03-14,Delta,B,14:00,2,On Time
+1460,2024-03-14,American,C,14:15,18,Delayed
+1461,2024-03-14,Southwest,F,12:00,19,Delayed
+1462,2024-03-14,United,A,21:00,0,On Time
+1463,2024-03-14,Southwest,D,12:15,9,On Time
+1464,2024-03-14,American,A,22:00,1,On Time
+1465,2024-03-14,American,B,15:00,64,Delayed
+1466,2024-03-14,United,C,10:00,33,Delayed
+1467,2024-03-14,American,D,20:45,40,Delayed
+1468,2024-03-14,Delta,E,10:15,33,Delayed
+1469,2024-03-14,Delta,C,22:30,4,On Time
+1470,2024-03-14,United,E,05:00,13,On Time
+1471,2024-03-14,Delta,E,07:00,8,On Time
+1472,2024-03-14,American,D,10:00,4,On Time
+1473,2024-03-15,Delta,E,20:30,7,On Time
+1474,2024-03-15,Delta,B,21:30,23,Delayed
+1475,2024-03-15,United,C,11:15,2,On Time
+1476,2024-03-15,United,F,13:00,0,On Time
+1477,2024-03-15,Southwest,B,08:30,19,Delayed
+1478,2024-03-15,American,E,11:00,32,Delayed
+1479,2024-03-15,United,D,08:15,2,On Time
+1480,2024-03-15,American,C,08:45,0,On Time
+1481,2024-03-15,Delta,C,18:00,10,On Time
+1482,2024-03-15,American,C,16:15,6,On Time
+1483,2024-03-15,Southwest,D,07:30,7,On Time
+1484,2024-03-15,American,E,13:30,0,On Time
+1485,2024-03-15,Delta,D,07:15,23,Delayed
+1486,2024-03-15,Delta,B,05:00,3,On Time
+1487,2024-03-15,United,D,19:30,0,On Time
+1488,2024-03-15,Southwest,D,22:45,51,Delayed
+1489,2024-03-16,American,F,11:00,12,On Time
+1490,2024-03-16,American,F,06:30,7,On Time
+1491,2024-03-16,American,C,13:30,18,Delayed
+1492,2024-03-16,American,F,07:15,4,On Time
+1493,2024-03-16,Delta,D,08:30,50,Delayed
+1494,2024-03-16,United,D,16:15,11,On Time
+1495,2024-03-16,American,A,10:30,0,On Time
+1496,2024-03-16,American,B,05:30,5,On Time
+1497,2024-03-16,United,D,09:45,3,On Time
+1498,2024-03-16,United,F,16:30,7,On Time
+1499,2024-03-16,Southwest,F,16:15,23,Delayed
+1500,2024-03-16,Southwest,B,13:30,28,Delayed
+1501,2024-03-16,United,C,10:15,13,On Time
+1502,2024-03-16,United,B,06:45,17,Delayed
+1503,2024-03-16,Southwest,F,09:15,5,On Time
+1504,2024-03-16,American,E,14:30,1,On Time
+1505,2024-03-17,American,B,11:00,11,On Time
+1506,2024-03-17,United,C,11:45,4,On Time
+1507,2024-03-17,Southwest,E,09:45,18,Delayed
+1508,2024-03-17,Southwest,C,10:45,30,Delayed
+1509,2024-03-17,American,F,08:00,5,On Time
+1510,2024-03-17,Delta,E,07:30,4,On Time
+1511,2024-03-17,Southwest,F,08:15,27,Delayed
+1512,2024-03-17,Southwest,A,21:45,5,On Time
+1513,2024-03-17,American,B,13:15,0,On Time
+1514,2024-03-17,Southwest,C,15:30,21,Delayed
+1515,2024-03-17,American,E,07:30,25,Delayed
+1516,2024-03-17,Delta,E,11:30,0,On Time
+1517,2024-03-17,United,A,17:45,11,On Time
+1518,2024-03-17,Delta,C,12:15,12,On Time
+1519,2024-03-17,Southwest,F,07:45,6,On Time
+1520,2024-03-18,Southwest,C,14:15,18,Delayed
+1521,2024-03-18,United,A,17:30,5,On Time
+1522,2024-03-18,American,A,06:15,8,On Time
+1523,2024-03-18,Southwest,C,17:30,2,On Time
+1524,2024-03-18,American,F,18:15,5,On Time
+1525,2024-03-18,American,E,19:45,0,On Time
+1526,2024-03-18,United,E,21:45,4,On Time
+1527,2024-03-18,Delta,E,11:15,15,On Time
+1528,2024-03-18,American,D,14:30,2,On Time
+1529,2024-03-18,United,F,22:30,2,On Time
+1530,2024-03-18,United,E,07:15,31,Delayed
+1531,2024-03-18,Southwest,D,13:45,1,On Time
+1532,2024-03-18,Delta,C,11:00,20,Delayed
+1533,2024-03-18,Southwest,B,17:30,3,On Time
+1534,2024-03-18,Delta,D,19:00,2,On Time
+1535,2024-03-18,United,C,06:00,27,Delayed
+1536,2024-03-18,Delta,B,13:45,4,On Time
+1537,2024-03-18,American,E,11:45,9,On Time
+1538,2024-03-18,Southwest,C,15:00,94,Delayed
+1539,2024-03-18,United,F,05:00,7,On Time
+1540,2024-03-18,Southwest,B,06:30,1,On Time
+1541,2024-03-19,Southwest,D,05:30,2,On Time
+1542,2024-03-19,United,D,11:00,36,Delayed
+1543,2024-03-19,United,F,07:30,6,On Time
+1544,2024-03-19,Delta,A,16:00,9,On Time
+1545,2024-03-19,Delta,B,06:15,9,On Time
+1546,2024-03-19,Delta,A,22:45,7,On Time
+1547,2024-03-19,Southwest,B,19:15,36,Delayed
+1548,2024-03-19,Delta,E,09:15,25,Delayed
+1549,2024-03-19,American,E,10:30,4,On Time
+1550,2024-03-19,American,E,19:30,1,On Time
+1551,2024-03-19,Delta,C,07:45,18,Delayed
+1552,2024-03-19,United,B,06:15,20,Delayed
+1553,2024-03-19,American,A,10:15,41,Delayed
+1554,2024-03-19,American,C,11:45,6,On Time
+1555,2024-03-19,United,A,12:15,13,On Time
+1556,2024-03-19,United,B,20:00,1,On Time
+1557,2024-03-19,United,E,20:45,3,On Time
+1558,2024-03-19,Delta,F,11:30,7,On Time
+1559,2024-03-19,Delta,A,20:15,3,On Time
+1560,2024-03-19,American,E,13:00,13,On Time
+1561,2024-03-19,American,E,21:30,27,Delayed
+1562,2024-03-19,American,A,09:15,3,On Time
+1563,2024-03-19,Delta,C,18:15,16,Delayed
+1564,2024-03-19,American,A,05:30,14,On Time
+1565,2024-03-19,United,E,07:15,12,On Time
+1566,2024-03-20,United,E,22:30,24,Delayed
+1567,2024-03-20,Delta,A,11:45,5,On Time
+1568,2024-03-20,American,E,21:30,47,Delayed
+1569,2024-03-20,Southwest,C,13:30,23,Delayed
+1570,2024-03-20,Delta,B,16:00,36,Delayed
+1571,2024-03-20,American,C,07:45,10,On Time
+1572,2024-03-20,American,A,21:30,3,On Time
+1573,2024-03-20,United,C,06:30,26,Delayed
+1574,2024-03-20,Delta,B,08:30,39,Delayed
+1575,2024-03-20,Delta,B,15:15,61,Delayed
+1576,2024-03-20,Southwest,C,22:30,26,Delayed
+1577,2024-03-20,Delta,E,16:30,31,Delayed
+1578,2024-03-20,Southwest,D,20:30,3,On Time
+1579,2024-03-20,American,E,22:00,43,Delayed
+1580,2024-03-20,American,F,05:45,3,On Time
+1581,2024-03-20,American,B,08:00,12,On Time
+1582,2024-03-21,United,C,05:00,2,On Time
+1583,2024-03-21,American,D,17:45,27,Delayed
+1584,2024-03-21,United,B,08:45,4,On Time
+1585,2024-03-21,United,E,20:00,6,On Time
+1586,2024-03-21,Southwest,E,08:45,0,On Time
+1587,2024-03-21,Southwest,A,21:45,10,On Time
+1588,2024-03-21,American,F,18:00,2,On Time
+1589,2024-03-21,United,B,18:30,17,Delayed
+1590,2024-03-21,Southwest,A,19:30,24,Delayed
+1591,2024-03-21,American,E,09:15,7,On Time
+1592,2024-03-21,Southwest,E,11:15,8,On Time
+1593,2024-03-21,United,C,21:15,41,Delayed
+1594,2024-03-21,Delta,A,21:00,31,Delayed
+1595,2024-03-21,Delta,F,05:45,1,On Time
+1596,2024-03-21,United,B,22:15,6,On Time
+1597,2024-03-21,United,A,19:00,5,On Time
+1598,2024-03-21,Southwest,F,21:45,34,Delayed
+1599,2024-03-22,United,E,22:15,2,On Time
+1600,2024-03-22,American,B,14:15,36,Delayed
+1601,2024-03-22,Delta,D,20:00,24,Delayed
+1602,2024-03-22,Delta,D,18:00,50,Delayed
+1603,2024-03-22,Delta,E,06:45,14,On Time
+1604,2024-03-22,United,C,13:15,2,On Time
+1605,2024-03-22,United,A,22:45,22,Delayed
+1606,2024-03-22,Southwest,F,13:15,7,On Time
+1607,2024-03-22,Southwest,D,08:00,18,Delayed
+1608,2024-03-22,United,E,07:30,0,On Time
+1609,2024-03-22,American,B,13:45,1,On Time
+1610,2024-03-22,United,B,22:00,27,Delayed
+1611,2024-03-22,Southwest,A,16:15,19,Delayed
+1612,2024-03-22,Southwest,F,06:00,10,On Time
+1613,2024-03-22,Delta,F,07:00,0,On Time
+1614,2024-03-22,Delta,B,10:30,7,On Time
+1615,2024-03-22,Southwest,B,16:00,18,Delayed
+1616,2024-03-23,American,F,22:00,14,On Time
+1617,2024-03-23,United,B,16:15,4,On Time
+1618,2024-03-23,United,B,15:30,2,On Time
+1619,2024-03-23,American,A,19:00,3,On Time
+1620,2024-03-23,American,C,09:30,21,Delayed
+1621,2024-03-23,United,C,12:45,13,On Time
+1622,2024-03-23,American,A,22:15,20,Delayed
+1623,2024-03-23,Delta,B,05:30,31,Delayed
+1624,2024-03-23,American,E,16:45,4,On Time
+1625,2024-03-23,United,E,09:00,8,On Time
+1626,2024-03-23,Southwest,B,05:30,8,On Time
+1627,2024-03-23,American,E,22:00,14,On Time
+1628,2024-03-23,Delta,A,11:00,9,On Time
+1629,2024-03-23,United,B,10:15,37,Delayed
+1630,2024-03-23,Southwest,A,10:15,19,Delayed
+1631,2024-03-23,Southwest,F,12:45,3,On Time
+1632,2024-03-23,United,B,10:15,6,On Time
+1633,2024-03-23,United,C,11:45,14,On Time
+1634,2024-03-23,Delta,E,20:30,2,On Time
+1635,2024-03-23,Southwest,A,13:15,22,Delayed
+1636,2024-03-23,Delta,B,19:45,7,On Time
+1637,2024-03-23,Southwest,B,06:30,10,On Time
+1638,2024-03-23,Delta,C,10:30,5,On Time
+1639,2024-03-23,American,D,07:15,50,Delayed
+1640,2024-03-24,American,E,07:30,5,On Time
+1641,2024-03-24,Delta,B,05:30,0,On Time
+1642,2024-03-24,Delta,E,16:00,10,On Time
+1643,2024-03-24,United,D,20:45,3,On Time
+1644,2024-03-24,Delta,C,15:30,24,Delayed
+1645,2024-03-24,Southwest,B,20:15,0,On Time
+1646,2024-03-24,Delta,C,13:30,6,On Time
+1647,2024-03-24,United,C,06:45,0,On Time
+1648,2024-03-24,United,F,12:15,58,Delayed
+1649,2024-03-24,United,B,20:00,1,On Time
+1650,2024-03-24,Delta,A,22:00,14,On Time
+1651,2024-03-24,Southwest,F,05:00,27,Delayed
+1652,2024-03-24,Delta,C,16:45,1,On Time
+1653,2024-03-24,American,D,12:15,41,Delayed
+1654,2024-03-24,Southwest,F,06:45,11,On Time
+1655,2024-03-24,Delta,C,09:00,42,Delayed
+1656,2024-03-24,Delta,F,21:15,11,On Time
+1657,2024-03-24,American,C,18:00,60,Delayed
+1658,2024-03-24,Southwest,B,06:45,12,On Time
+1659,2024-03-25,American,E,09:00,6,On Time
+1660,2024-03-25,United,A,10:45,17,Delayed
+1661,2024-03-25,Delta,A,10:00,2,On Time
+1662,2024-03-25,American,A,09:00,3,On Time
+1663,2024-03-25,United,F,07:45,21,Delayed
+1664,2024-03-25,United,C,11:00,0,On Time
+1665,2024-03-25,Delta,B,09:45,19,Delayed
+1666,2024-03-25,Delta,E,20:15,4,On Time
+1667,2024-03-25,American,F,14:30,49,Delayed
+1668,2024-03-25,American,B,20:30,8,On Time
+1669,2024-03-25,American,B,22:00,48,Delayed
+1670,2024-03-25,Delta,F,19:45,1,On Time
+1671,2024-03-25,United,A,20:00,21,Delayed
+1672,2024-03-25,Delta,D,22:30,8,On Time
+1673,2024-03-25,United,E,20:30,2,On Time
+1674,2024-03-25,Delta,E,18:30,10,On Time
+1675,2024-03-25,Delta,B,21:30,10,On Time
+1676,2024-03-25,Southwest,E,18:00,7,On Time
+1677,2024-03-25,Southwest,F,11:45,9,On Time
+1678,2024-03-25,United,A,18:00,26,Delayed
+1679,2024-03-25,Delta,C,05:45,10,On Time
+1680,2024-03-26,United,D,10:30,13,On Time
+1681,2024-03-26,Delta,C,08:15,4,On Time
+1682,2024-03-26,United,A,20:15,2,On Time
+1683,2024-03-26,United,F,20:30,5,On Time
+1684,2024-03-26,United,C,16:30,8,On Time
+1685,2024-03-26,Delta,F,08:45,4,On Time
+1686,2024-03-26,Delta,F,06:00,18,Delayed
+1687,2024-03-26,Delta,A,07:45,22,Delayed
+1688,2024-03-26,Southwest,E,09:15,37,Delayed
+1689,2024-03-26,United,B,18:15,31,Delayed
+1690,2024-03-26,American,D,14:45,2,On Time
+1691,2024-03-26,United,C,20:45,43,Delayed
+1692,2024-03-26,United,A,22:15,4,On Time
+1693,2024-03-26,United,B,07:45,0,On Time
+1694,2024-03-26,Southwest,A,07:30,112,Delayed
+1695,2024-03-26,Southwest,C,20:30,10,On Time
+1696,2024-03-26,Delta,E,16:30,5,On Time
+1697,2024-03-26,United,D,19:00,11,On Time
+1698,2024-03-26,American,F,06:45,1,On Time
+1699,2024-03-26,United,C,22:15,15,On Time
+1700,2024-03-26,Southwest,E,15:45,6,On Time
+1701,2024-03-26,United,B,15:00,21,Delayed
+1702,2024-03-26,Delta,C,18:15,7,On Time
+1703,2024-03-26,Southwest,E,15:30,16,Delayed
+1704,2024-03-26,Southwest,A,11:15,10,On Time
+1705,2024-03-27,American,F,14:30,81,Delayed
+1706,2024-03-27,Delta,E,16:45,4,On Time
+1707,2024-03-27,Delta,A,08:45,10,On Time
+1708,2024-03-27,United,A,07:00,15,On Time
+1709,2024-03-27,Delta,C,12:30,4,On Time
+1710,2024-03-27,Southwest,D,06:15,11,On Time
+1711,2024-03-27,United,E,08:45,3,On Time
+1712,2024-03-27,American,F,21:45,1,On Time
+1713,2024-03-27,United,F,16:15,24,Delayed
+1714,2024-03-27,Delta,F,10:30,2,On Time
+1715,2024-03-27,Southwest,F,06:45,41,Delayed
+1716,2024-03-27,Delta,C,05:15,27,Delayed
+1717,2024-03-27,Delta,B,12:45,0,On Time
+1718,2024-03-27,American,E,15:15,4,On Time
+1719,2024-03-27,United,B,14:45,9,On Time
+1720,2024-03-27,Delta,D,12:15,32,Delayed
+1721,2024-03-27,United,F,08:00,1,On Time
+1722,2024-03-27,United,A,12:30,12,On Time
+1723,2024-03-27,American,D,09:15,6,On Time
+1724,2024-03-28,Delta,B,11:45,0,On Time
+1725,2024-03-28,American,A,10:45,1,On Time
+1726,2024-03-28,Southwest,D,11:15,36,Delayed
+1727,2024-03-28,Southwest,D,19:15,53,Delayed
+1728,2024-03-28,Southwest,E,15:45,30,Delayed
+1729,2024-03-28,Southwest,B,11:15,3,On Time
+1730,2024-03-28,Delta,E,13:45,8,On Time
+1731,2024-03-28,American,A,14:00,19,Delayed
+1732,2024-03-28,Southwest,B,11:30,5,On Time
+1733,2024-03-28,American,E,08:30,0,On Time
+1734,2024-03-28,United,C,19:15,3,On Time
+1735,2024-03-28,Southwest,B,07:00,55,Delayed
+1736,2024-03-28,Southwest,D,16:15,29,Delayed
+1737,2024-03-28,Delta,A,06:00,16,Delayed
+1738,2024-03-28,American,E,14:15,48,Delayed
+1739,2024-03-28,Southwest,E,05:30,28,Delayed
+1740,2024-03-28,United,E,05:30,7,On Time
+1741,2024-03-28,United,B,21:15,11,On Time
+1742,2024-03-28,United,E,13:45,20,Delayed
+1743,2024-03-28,United,F,22:00,5,On Time
+1744,2024-03-28,American,C,06:15,0,On Time
+1745,2024-03-29,United,E,21:15,7,On Time
+1746,2024-03-29,American,A,12:15,11,On Time
+1747,2024-03-29,United,E,05:30,9,On Time
+1748,2024-03-29,Delta,E,13:00,40,Delayed
+1749,2024-03-29,Southwest,A,09:15,17,Delayed
+1750,2024-03-29,Southwest,F,17:00,1,On Time
+1751,2024-03-29,Delta,C,12:15,16,Delayed
+1752,2024-03-29,Delta,A,15:45,30,Delayed
+1753,2024-03-29,Southwest,E,15:15,11,On Time
+1754,2024-03-29,Delta,F,18:30,2,On Time
+1755,2024-03-29,American,C,08:00,5,On Time
+1756,2024-03-29,Southwest,D,17:45,15,On Time
+1757,2024-03-29,Southwest,A,20:30,4,On Time
+1758,2024-03-29,Southwest,B,11:45,0,On Time
+1759,2024-03-29,Delta,B,20:15,11,On Time
+1760,2024-03-29,American,A,17:00,16,Delayed
+1761,2024-03-29,Southwest,E,16:00,11,On Time
+1762,2024-03-30,Delta,D,19:30,10,On Time
+1763,2024-03-30,Southwest,F,14:45,14,On Time
+1764,2024-03-30,Southwest,E,17:30,20,Delayed
+1765,2024-03-30,Delta,E,20:15,33,Delayed
+1766,2024-03-30,Southwest,F,15:00,15,On Time
+1767,2024-03-30,Delta,B,07:15,20,Delayed
+1768,2024-03-30,Delta,F,12:00,19,Delayed
+1769,2024-03-30,United,F,21:15,8,On Time
+1770,2024-03-30,United,E,20:45,8,On Time
+1771,2024-03-30,Delta,B,21:45,32,Delayed
+1772,2024-03-30,American,F,20:00,16,Delayed
+1773,2024-03-30,American,B,10:00,5,On Time
+1774,2024-03-30,Delta,A,16:45,29,Delayed
+1775,2024-03-30,American,A,11:15,32,Delayed
+1776,2024-03-30,United,B,11:15,23,Delayed
+1777,2024-03-30,United,F,16:30,2,On Time
